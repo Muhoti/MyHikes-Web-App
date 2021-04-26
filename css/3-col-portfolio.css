@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - 3 Col Portfolio (https://startbootstrap.com/template-overviews/3-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
+ */
+
+ /* Navigation Bar styling */
+ 
+.navbar-dark .navbar-brand {
+	color: #ff0000;
+}
+.bg-dark {
+	background-color: #34576d !important;
+	border-color: #666666;
+	-moz-box-shadow: 2px 2px 7px #000;
+	-webkit-box-shadow: 2px 2px 7px #000;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+  font-family: Garamond, ‘Book Antiqua’, Palatino, serif;
+	font-size: 16px;
+}
+
+/* Body Styling properties example */
+body {
+	font-family: Garamond, ‘Book Antiqua’, Palatino, serif;
+	font-size: 16px;
+}
+
+h1 {
+	font-style: oblique;
+	font-size:48px;
+}
+
+h3 {
+	font-family: 'Franklin Gothic', sans-serif;
+	font-size:24px;
+}
+
+a {
+	color: #34576d;
+}
+
+a:hover {
+	color: #333333;
+}
