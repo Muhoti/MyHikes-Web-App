@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Uhuru Gardens.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed5">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed2">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Uhuru Gardens</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6-T3aLt2MEIvbmUmuzH_3hWCxR5mdYs2mxzLlv9DdAoGKmY0">Uhuru gardens is the largest memorial park in Kenya. The inaugural ceremony for Kenya’s first president, President Jomo Kenyatta was conducted at this park on 12 December 1963 when Kenya gained its independence. A 24-metre high monument commemorating Kenyas’ struggle for independence is the centrepiece of attractions at Uhuru Gardens]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.80195478821513,-1.323300653243509,0 36.80175097185115,-1.323345936704094,0 36.79768611370707,-1.324070432599007,0 36.79748230841093,-1.32414966940056,0 36.79711998808898,-1.324296823188705,0 36.79663312032048,-1.32461376886792,0 36.79616889715346,-1.324908074699441,0 36.79611228477667,-1.325326895671522,0 36.79615757482182,-1.325779674791127,0 36.79611228409421,-1.326311689871631,0 36.79887498524229,-1.328813313255442,0 36.79921466191227,-1.328462405789354,0 36.79978079209417,-1.328088861872425,0 36.80091306379803,-1.327556848349039,0 36.8019434473002,-1.327036151900082,0 36.80307576452715,-1.326639967888278,0 36.80322296745366,-1.32648149173115,0 36.80218124794944,-1.323436486643617,0 36.80203404904508,-1.323334611238205,0 36.80195478821513,-1.323300653243509,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

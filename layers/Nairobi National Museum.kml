@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Nairobi National Museum.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Nairobi National Museum</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyvuXmcR2OtBseah0Y7sgs56beqmgtZeDptKXM8GaiVXJJV5y7g">The Nairobi National Museum was founded in 1920, and established at its present location in 1929. Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with. The Museum aims to interpret Kenya’s rich heritage and offers a one stop for visitors to sample the country’s rich heritage both for education and leisure. It is open on all 356 days throughout the year from 0830hrs -17300hrs.]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.81447114539127,-1.273946863113081,0 36.81437127232243,-1.274102989608288,0 36.8144384596396,-1.274208284232581,0 36.81445117075589,-1.274208284232537,0 36.81449656757702,-1.274280901233997,0 36.81454922791408,-1.274291793792681,0 36.81459099301176,-1.274349887427092,0 36.81466907558832,-1.274304501798662,0 36.81470902482442,-1.274295424679438,0 36.81464546921673,-1.274211915099201,0 36.81456557078241,-1.274182868302217,0 36.81451835808505,-1.274108435896588,0 36.81454014856686,-1.27405760401901,0 36.8146872342995,-1.274083019967502,0 36.81470902480112,-1.274004956715136,0 36.81447114539127,-1.273946863113081,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>McMillan Library.kml</name>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>McMillan Library</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTFD4Ky6T5UYovRUzNeXWSKp9GgCKH5GWc15wBLi_ARdEkGGv">The McMillan Memorial Library building (sometimes erroneously spelled “MacMillan”) is one of the oldest and largest libraries in Nairobi. Located in the city centre, the library is surrounded by many landmarks and important Nairobi buildings, including the Jamia Mosque, court houses and the Stanley Hotel. The McMillan building has a picturesque exterior architecture, finished in Nairobi blue stone, with a front entrance marked by classic large pillars and stone lion sculptures. Established in 1931, the building was named after US-born philanthropist, Sir William Northrup McMillan. Today the Library is operated by the Nairobi City Council and serves an average of 1,000 users per day (in conjunction with its two branches). The library also houses an extensive Africana section, as well as rare first edition books and works of art, including portraits and sculptures (these include a sculpture by Cesare Lapini and a portrait of Andrew Carnegie).]]></description>
+		<Camera>
+			<longitude>36.82172860155089</longitude>
+			<latitude>-1.284180383435699</latitude>
+			<altitude>71.92611553100497</altitude>
+			<heading>-39.25637439570901</heading>
+			<tilt>45.59981262293702</tilt>
+			<roll>-0.9819679736802105</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<styleUrl>#msn_ylw-pushpin00</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>36.82122487835903,-1.283596485891619,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

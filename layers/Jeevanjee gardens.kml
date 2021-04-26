@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Jeevanjee gardens.kml</name>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Jeevanjee gardens</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVqIgXFAIpIAcjmn1IwTp5wli9J_CN9SoIdC7JovVqjxpNhk7">The gardens were named after and donated by AM Jeevanjee who started the city of Nairobi and one of the first Bohras to settle in Nairobi. Its located along Moi Avenue and there is no entry fee. Its a good pkace with cool shade to relax and rest between periods of  busy runs across the city.]]></description>
+		<styleUrl>#msn_ylw-pushpin50</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.82052479151081,-1.281207447657588,0 36.82052750382039,-1.281207447653942,0 36.82053564093516,-1.281196600981348,0 36.82053835333969,-1.281188465982623,0 36.8205437781493,-1.281174907636952,0 36.82054377815679,-1.281164060966664,0 36.82054377816754,-1.281150502642446,0 36.82053835337545,-1.281139655981857,0 36.82053292867248,-1.281131520989481,0 36.82052479157079,-1.28112338601725,0 36.82051936678347,-1.281112539358428,0 36.82049766787352,-1.281104404402949,0 36.81973549809247,-1.280570208566793,0 36.81879431829414,-1.28100949761676,0 36.81920116805112,-1.281860956997916,0 36.82052479151081,-1.281207447657588,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

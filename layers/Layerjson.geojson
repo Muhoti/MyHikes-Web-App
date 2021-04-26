@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "American Embassy Memorial Garden", "description": "<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTclnK2ki5h1C5YDKZg9wFxE5zFHU0SP9Flb-vA4iY_90QRoXxV\">The August 7th Memorial Park is located at the 1998 Bomb blast scene along Haile Selassie Avenue. It is dedicated to those who lost their lives and contains a notice board listing their names.", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.826962906542633, -1.288688778955712, 0.0 ], [ 36.826472441665267, -1.288936491331871, 0.0 ], [ 36.826564185496572, -1.289136238303561, 0.0 ], [ 36.826745050092448, -1.289053943977518, 0.0 ], [ 36.826825430031427, -1.28924030747498, 0.0 ], [ 36.826978066422079, -1.289170103698491, 0.0 ], [ 36.827004192756618, -1.289124925468653, 0.0 ], [ 36.827030058713689, -1.289099427136084, 0.0 ], [ 36.827058757906912, -1.289076709996687, 0.0 ], [ 36.827084688731603, -1.289053943794495, 0.0 ], [ 36.827122009185288, -1.289031128353512, 0.0 ], [ 36.826962906542633, -1.288688778955712, 0.0 ] ] ] } }
+]
+}

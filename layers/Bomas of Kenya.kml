@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bomas of Kenya.kml</name>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Bomas of Kenya</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhnRtp58Gy7JQqnvjsRnas1EmSaHU0kIwuuhpQYhleqmKvOZhYA">Bomas of Kenya is a tourist village in Langata, Nairobi. Bomas (homesteads) displays traditional villages belonging to the several Kenyan tribes. Bomas of Kenya is home to one of largest auditorium in Africa. It is located approximately 10km from the Central Business District.
+The word Bomas comes from a Swahili word “Boma” meaning a homestead hence the word bomas in plural. It was established by the government in 1971 as a subsidiary company of Kenya Tourist Development Corporation as a tourist attraction. It also wanted to preserve, maintain and promote rich and diverse cultural values of various tribal groups of Kenya.]]></description>
+		<styleUrl>#msn_ylw-pushpin6</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.76862812086691,-1.335393215293099,0 36.76748122068474,-1.335015847708234,0 36.76733605281822,-1.337309032246567,0 36.76719086943847,-1.340908429411748,0 36.76730700961173,-1.341227733057551,0 36.7673215257311,-1.34147446863383,0 36.76719086092612,-1.342113082659335,0 36.76794578680961,-1.341866341357479,0 36.76833776604208,-1.341677659438187,0 36.7687007090124,-1.341401895417096,0 36.77288181645763,-1.33839755381997,0 36.77154618280373,-1.335523826544664,0 36.76862812086691,-1.335393215293099,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

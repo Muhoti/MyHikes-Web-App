@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kenyatta international conference centre.kml</name>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed15">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed3">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>kenyatta international conference centre</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1okHweMJPbB8KgrZ8c3C_9PDXOmHX3WBi0XS1Kx7S2c7qkKDzA">The Kenyatta International Conference Centre is an internationally renowned venue for conferences, meetings, exhibitions and special events and among the tallest buildings in Nairobi. For Ksh. 200 you can go to the rooftop and enjoy a marvelous and exclusive view of the city.]]></description>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.82324145554629,-1.288425929265737,0 36.82268713003224,-1.288714863921281,0 36.82263027607931,-1.288719600514277,0 36.82260184914562,-1.288733810340291,0 36.82255447086243,-1.288757493463026,0 36.82251183041478,-1.288790649850928,0 36.82247392779395,-1.288819069584182,0 36.82243602514004,-1.288871172473035,0 36.82243602516953,-1.288923275386377,0 36.82244550087303,-1.28897064167984,0 36.82247866569628,-1.289032217850049,0 36.82249761706564,-1.289098530622642,0 36.8225497331732,-1.289136423641879,0 36.82260658713922,-1.289174316646344,0 36.82266817888448,-1.289164843398673,0 36.82274398407211,-1.289126950406313,0 36.82281031361179,-1.289093794041472,0 36.82286242966227,-1.289060637673428,0 36.82285769184251,-1.289018008063707,0 36.82332199848718,-1.28876696678142,0 36.82343096850511,-1.288771703326789,0 36.82360626812835,-1.288809596173171,0 36.82372471397984,-1.28873854654466,0 36.82332199901638,-1.28790016076362,0 36.82305194242227,-1.288042260934011,0 36.82324145554629,-1.288425929265737,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

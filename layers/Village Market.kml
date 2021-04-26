@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Village Market.kml</name>
+	<Style id="failed11">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed7">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Village Market</name>
+		<description><![CDATA[The Village Market is located in the Gigiri and is one of Kenya’s largest shopping, recreation and entertainment complex housing over 150 stores outlets. There are several outlets that specialize in African artifacts and other Kenyan crafts. Moreover, every Friday, the shopping center hosts the Maasai Market; a cultural bazaar that brings together around 400 artisans and craftsmen who specialize in an array of ethnic relics.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnq-J-vhIwcB9RgpYjndDhq28-Y1a5KyOizAD-M66DZGKOKryyXA">]]></description>
+		<styleUrl>#m_ylw-pushpin4</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.80362084245161,-1.231276764035174,0 36.80428404682589,-1.231570833827785,0 36.80448478760111,-1.231102462530888,0 36.80549151697122,-1.228653281915295,0 36.80555793441748,-1.228475228030733,0 36.80579048950652,-1.227982091890557,0 36.80615552465673,-1.227903303627244,0 36.80602750618239,-1.227451029743404,0 36.80530976424544,-1.227156175403076,0 36.80511882172241,-1.227176946437377,0 36.80501917984492,-1.227716642634396,0 36.80486156091465,-1.228237173874221,0 36.80365809895249,-1.231185603488972,0 36.80362084245161,-1.231276764035174,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

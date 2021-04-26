@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradise Lost.kml</name>
+	<Style id="failed13">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed16">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Paradise Lost</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwT4JPhJCCySWiKnRsh7GSdjXIkicbJf7lO8j3a98ea_bKpn9H5g">Paradise lost is a beautiful oasis in the middle of a coffee farm close to Kiambu Town, about 10km from Nairobi. It is one of very few places close to Nairobi that offers a myriad of attractions and activities for the whole family. The most popular attraction at Paradise Lost is a labyrinth of caves eroded by the waters of the nearby Gichi River, with their entrance screened by a spectacular waterfall. These caves are estimated to be 2.5 million years old, based on obsidian rock artefacts from the late stone age that were discovered inside. Artificial lighting has been installed a few meters into the caves up to a large cavern within.]]></description>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.82446664268425,-1.181027674030727,0 36.82409278925525,-1.181796344948443,0 36.82408798877372,-1.181834299716616,0 36.82408927819903,-1.181858649948536,0 36.82408158577131,-1.181882838148506,0 36.82408500640202,-1.181904688084604,0 36.82409933018514,-1.181922073406144,0 36.82501942691592,-1.181666150541076,0 36.82451209721734,-1.180961385475131,0 36.82446664268425,-1.181027674030727,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

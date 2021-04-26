@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tom Mboya Statue.kml</name>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Tom Mboya Statue</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4e5J6q3IoRoYTCFczet9jzg9Cc1RDhrbnHzXVPL_G9f6gYos">The Tom Mboya Monument is along the Moi Avenue in Nairobi, Kenya. It was erected in 2011 in honour of Tom Mboya, a Kenyan minister who was assassinated in 1969. The monument stands about twenty meters from where Mboya was murdered. The statue stands at not less than ten meters from ground level. Since its unveiling, the monument's location has proven to be one of the most popular rendezvous currently available within the Nairobi CBD.]]></description>
+		<LookAt>
+			<longitude>36.82524888013402</longitude>
+			<latitude>-1.284794157923249</latitude>
+			<altitude>0</altitude>
+			<heading>-31.48654557692532</heading>
+			<tilt>45.43552553405741</tilt>
+			<range>100.8770397378699</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>36.82537884246624,-1.284750514439438,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kenya National Archives.kml</name>
+	<Style id="failed4">
+	</Style>
+	<Style id="failed">
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Kenya National Archives</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTady7ea2pvvJFXSW0ef2Q0DVvigExC42wQamzstb4mFJOF4YJgxg">The Kenya National Archives is situated at the edge of the central business district in downtown Nairobi along Moi Avenue next to Ambassadeur Hotel. It was established in 1965 and holds 40,000 volumes. It also houses the Murumbi Gallery which is currently the largest Pan-African art gallery in Africa and contains ancient art collections from different regions and communities of Africa. The collected artifacts were acquired by the government of Kenya after a concessionary arrangement was agreed upon with Joseph Murumbi, who had initially turned down several huge offers to buy his collections by overseas bidders]]></description>
+		<styleUrl>#m_ylw-pushpin5</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.82560804559238,-1.284865407664088,0 36.82576151428052,-1.285172073847681,0 36.82606290734231,-1.285168247224422,0 36.82611659221107,-1.285173348567305,0 36.82614628066749,-1.285168247207757,0 36.82619309076728,-1.285098722340147,0 36.82618762260264,-1.28504773736135,0 36.82605642593693,-1.28470174499597,0 36.82598988910305,-1.284581416525632,0 36.82595557219727,-1.284533204322021,0 36.82593151544532,-1.284504579503468,0 36.82592349749082,-1.284491633659665,0 36.82590375921605,-1.284483231043639,0 36.82561075250332,-1.28483774308411,0 36.82560804559238,-1.284865407664088,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

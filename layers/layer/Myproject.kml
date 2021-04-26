@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Myproject.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff005500</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1">
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed2">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed3">
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff0055aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed4">
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="failed5">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed6">
+	</Style>
+	<Style id="failed7">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed8">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed9">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed10">
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0055aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed11">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff0055aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0055aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff005500</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff005500</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="failed12">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed13">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff005500</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed14">
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed15">
+	</Style>
+	<Style id="failed16">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Myproject</name>
+		<Placemark>
+			<name>American Embassy Memorial Garden</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnK2ki5h1C5YDKZg9wFxE5zFHU0SP9Flb-vA4iY_90QRoXxV">The August 7th Memorial Park is located at the 1998 Bomb blast scene along Haile Selassie Avenue. It is dedicated to those who lost their lives and contains a notice board listing their names.]]></description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82696290654263,-1.288688778955712,0 36.82647244166527,-1.288936491331871,0 36.82656418549657,-1.289136238303561,0 36.82674505009245,-1.289053943977518,0 36.82682543003143,-1.28924030747498,0 36.82697806642208,-1.289170103698491,0 36.82700419275662,-1.289124925468653,0 36.82703005871369,-1.289099427136084,0 36.82705875790691,-1.289076709996687,0 36.8270846887316,-1.289053943794495,0 36.82712200918529,-1.289031128353512,0 36.82696290654263,-1.288688778955712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>August 7th Memorial Park</name>
+			<visibility>0</visibility>
+			<description>The August 7th Memorial Park is located at the 1998 Bomb blast scene along Haile Selassie Avenue in Nairobi, Kenya. It contains a notice board listing the names of all people that were reported dead after the incident.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82651671396954,-1.288922439197096,0 36.82662753625253,-1.289105883284582,0 36.82675426274497,-1.289048789498346,0 36.82687315503205,-1.289294214072976,0 36.82714543862082,-1.28915074199305,0 36.82714979360985,-1.289144142498552,0 36.82715846217026,-1.289135332481359,0 36.82716500013127,-1.289126510226387,0 36.82716722988042,-1.289119885513032,0 36.82716737526179,-1.289108828928788,0 36.82715259470562,-1.289088878562759,0 36.82696900222731,-1.288695214105548,0 36.82651671396954,-1.288922439197096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bohra mosque</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpEXHT6_F1mC0kS0nv5vAD3bPNL2oDc_xoHsPpLnG-uJYpcpj">This is one of the oldest Mosques in Kenya built by and for the Nairobi’s Bohra Community. The community composed of the most notable business people and investors in Nairobi including Jeevanjee who started the city of Nairobi.
+
+Location: Along Lagos Road
+
+Entrance Fees: Free]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82441384618176,-1.282392816654621,0 36.82439782230725,-1.282396066743697,0 36.8243935670849,-1.282512998762863,0 36.8244039327943,-1.282526412295506,0 36.82450520391925,-1.282533809678164,0 36.82451388738322,-1.282451810268704,0 36.82453635570794,-1.282453372073304,0 36.82452725547363,-1.282383023337913,0 36.82441054308139,-1.282373165115619,0 36.82441384618176,-1.282392816654621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bomas of Kenya</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhnRtp58Gy7JQqnvjsRnas1EmSaHU0kIwuuhpQYhleqmKvOZhYA">Bomas of Kenya is a tourist village in Langata, Nairobi. Bomas (homesteads) displays traditional villages belonging to the several Kenyan tribes. Bomas of Kenya is home to one of largest auditorium in Africa. It is located approximately 10km from the Central Business District.
+The word Bomas comes from a Swahili word “Boma” meaning a homestead hence the word bomas in plural. It was established by the government in 1971 as a subsidiary company of Kenya Tourist Development Corporation as a tourist attraction. It also wanted to preserve, maintain and promote rich and diverse cultural values of various tribal groups of Kenya.]]></description>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.76862812086691,-1.335393215293099,0 36.76748122068474,-1.335015847708234,0 36.76733605281822,-1.337309032246567,0 36.76719086943847,-1.340908429411748,0 36.76730700961173,-1.341227733057551,0 36.7673215257311,-1.34147446863383,0 36.76719086092612,-1.342113082659335,0 36.76794578680961,-1.341866341357479,0 36.76833776604208,-1.341677659438187,0 36.7687007090124,-1.341401895417096,0 36.77288181645763,-1.33839755381997,0 36.77154618280373,-1.335523826544664,0 36.76862812086691,-1.335393215293099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>David Sheldrick Elephant &amp; Rhino Orphanage</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfhsS_K3F6rhxsK3yahjaglYqeE5SrCGEXmMgX2QOYewdCQRNzAQ">Dame Daphne established the Trust in honour of her late husband David Sheldrick, the founding warden of the Tsavo National Parks, and a pioneer conservationist in Kenya. The orphanage caters for the welfare of orphaned Elephants and Rhinos who are raised in the sanctuary and eventually released back to the wild.]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.77309115272349,-1.376851449954338,0 36.77309110187304,-1.376871981143688,0 36.77337772589112,-1.37690044280398,0 36.7733771526358,-1.376878107642818,0 36.77309115272349,-1.376851449954338,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dedan Kimathi Statue</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7DGhjz9yQOLiLn56SEM22TnaRp4vZVwduRj8czE2yzgON0CsNA">The Dedan Kimathi Statue is located along Kimathi Street, opposite the Hilton Hotel in Nairobi. It was built in memory of Field Marshal Dedan Kimathi. Dedan Kimathi (Oct 31, 1920 – Feb 18, 1957) was a freedom fighter that fought against British colonial rule in Kenya in the 1950s. He was later caught, found guilty and soon after executed by the British colonial government.]]></description>
+			<LookAt>
+				<longitude>36.82409424893898</longitude>
+				<latitude>-1.284965898092207</latitude>
+				<altitude>0</altitude>
+				<heading>-5.499869183679968</heading>
+				<tilt>45.21637770264209</tilt>
+				<range>102.3570700871482</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82418467618706,-1.284973934751122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Girraffe Centre</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhigTNtgtnRfvCWi6VJ68SfRfYHyFl0Pw7bTLfxODaRTX25_T">The Giraffe Centre was started by Jock Leslie-Melville, the Kenyan grandson of a Scottish Earl, when he and his wife Betty captured a baby giraffe to start a programme of breeding giraffe in captivity at their home in Langata – home of the present centre. Since then the programme has had huge success, resulting in the introduction of several breeding pairs of Rothschild Giraffe into Kenyan national parks. It is located at Karen, approximately 5 kilometres from the centre of Nairobi.]]></description>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.74614645757853,-1.374686053569001,0 36.74460754121859,-1.374809969628178,0 36.74446294676115,-1.374840945949196,0 36.74443196276341,-1.374758344828271,0 36.7432855423098,-1.374892575785184,0 36.74282077954489,-1.374964852096627,0 36.74219076869372,-1.37502680239678,0 36.74121993122152,-1.375161026088019,0 36.74128189971652,-1.376224509669736,0 36.74267618568442,-1.376110935579586,0 36.7427794655798,-1.377866197961507,0 36.74582628257772,-1.378299872981097,0 36.74596055139367,-1.378268898761003,0 36.74603284960156,-1.378206947943119,0 36.74616711222866,-1.377546133898879,0 36.74622908063259,-1.377267353537776,0 36.74636334722615,-1.376575565602773,0 36.74614645757853,-1.374686053569001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jeevanjee gardens</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVqIgXFAIpIAcjmn1IwTp5wli9J_CN9SoIdC7JovVqjxpNhk7">The gardens were named after and donated by AM Jeevanjee who started the city of Nairobi and one of the first Bohras to settle in Nairobi. Its located along Moi Avenue and there is no entry fee. Its a good pkace with cool shade to relax and rest between periods of  busy runs across the city.]]></description>
+			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82052479151081,-1.281207447657588,0 36.82052750382039,-1.281207447653942,0 36.82053564093516,-1.281196600981348,0 36.82053835333969,-1.281188465982623,0 36.8205437781493,-1.281174907636952,0 36.82054377815679,-1.281164060966664,0 36.82054377816754,-1.281150502642446,0 36.82053835337545,-1.281139655981857,0 36.82053292867248,-1.281131520989481,0 36.82052479157079,-1.28112338601725,0 36.82051936678347,-1.281112539358428,0 36.82049766787352,-1.281104404402949,0 36.81973549809247,-1.280570208566793,0 36.81879431829414,-1.28100949761676,0 36.81920116805112,-1.281860956997916,0 36.82052479151081,-1.281207447657588,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Karura Forest</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapf94hkNGfVS_i8mvNuit_XUXNk8qm5QEfrv723Lz2hyJEer2Zg">Karura Forest is an urban forest in Nairobi, the capital of Kenya. The forest was gazetted in 1932 and is managed by the Kenya Forest Service in conjunction with the Friends of Karura Forest. Features in the forest include a waterfall, bamboo forest, marshland, Mau Mau caves and an old church. The first trail, which is four kilometres long and connects Limuru Road with Old Kiambu Road was opened in May 2009.]]></description>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.84696614512824,-1.24857783110794,0 36.84679081512061,-1.248058994001329,0 36.84622561286527,-1.2475395181497,0 36.84598932438951,-1.246889248233545,0 36.84549249576446,-1.246237969010835,0 36.84512737028096,-1.245520377478308,0 36.84495253284419,-1.244932330493227,0 36.84436068339374,-1.241914231330849,0 36.84388086183203,-1.237078735361521,0 36.84344257581827,-1.233062071381543,0 36.84235271271901,-1.231444659718174,0 36.84070180377316,-1.231242177273791,0 36.83844668301682,-1.231512490935037,0 36.83614287454022,-1.230566379129784,0 36.83403867555402,-1.229075212614931,0 36.83225716284423,-1.227851217615849,0 36.83093499242348,-1.226828484548422,0 36.82934037643888,-1.226350380178792,0 36.82854225601351,-1.226145310291346,0 36.82846989880413,-1.227578822253296,0 36.82773450619062,-1.228871628923173,0 36.82640676783596,-1.228939567534737,0 36.82494643281883,-1.228531803135076,0 36.82341811314645,-1.228055563579524,0 36.82255208660058,-1.22730611470578,0 36.82201659978676,-1.226350348792613,0 36.82074634024163,-1.225323876649188,0 36.81907107803396,-1.22408878022214,0 36.81779853734206,-1.223607440054486,0 36.81692687465909,-1.223263284665864,0 36.81646189564695,-1.22353854819598,0 36.81687533362307,-1.224843804723422,0 36.81728875452212,-1.226281773424086,0 36.81769958169316,-1.227578582941588,0 36.8179718133694,-1.228327548335268,0 36.81877398862882,-1.229007300219329,0 36.81990812056854,-1.229957103285299,0 36.82064200982449,-1.230837126047875,0 36.82124143657531,-1.231580320081488,0 36.82230302311223,-1.232456953654509,0 36.82197425876752,-1.232928207473887,0 36.82191148135421,-1.233802002878179,0 36.82165078281335,-1.234606966028836,0 36.81969513780212,-1.238077343697325,0 36.81952009697319,-1.239404476827402,0 36.81892294532025,-1.240463171634422,0 36.8182670385829,-1.240661379844748,0 36.81702425278986,-1.240463175664637,0 36.81636489913745,-1.241716883502016,0 36.81557624952797,-1.243229494714105,0 36.81453148213169,-1.243688757296704,0 36.81322707187533,-1.243163818771241,0 36.81224686822342,-1.242111967137524,0 36.811133843471,-1.241255368250719,0 36.80976079682478,-1.241387234799665,0 36.80978224109688,-1.240529172878215,0 36.80886654814163,-1.240000240670169,0 36.80775296427687,-1.239801707201304,0 36.80696631766802,-1.239271848285955,0 36.80506099626249,-1.237944241162396,0 36.80499512453562,-1.237877750200896,0 36.80275534050397,-1.236679061182828,0 36.80123562367191,-1.23574435801188,0 36.79991694117432,-1.235543742635406,0 36.79872655654619,-1.235075346437618,0 36.79806456916953,-1.234807453765112,0 36.79549450163011,-1.240198357490874,0 36.79350689819128,-1.244016068727559,0 36.79567294897273,-1.245716256072266,0 36.79828321481768,-1.247149458203851,0 36.79912407056114,-1.246368384463935,0 36.79971256159412,-1.247279529400533,0 36.80211591508208,-1.248058954924709,0 36.80464438656505,-1.248836911571972,0 36.806391900927,-1.24941941651771,0 36.80606145707151,-1.251097536256072,0 36.80534746709471,-1.252062582794951,0 36.80609513437216,-1.252768871854804,0 36.80680430848387,-1.252512193789753,0 36.80751456293427,-1.253089529022895,0 36.80854610801358,-1.253473979158981,0 36.80977109670464,-1.253281825442218,0 36.81015931321134,-1.252704775775613,0 36.81022625162967,-1.251741221023704,0 36.81074660520429,-1.250581985468058,0 36.81158985510317,-1.250001153587243,0 36.81256452435268,-1.249290135781284,0 36.8142555137612,-1.248383433952133,0 36.81549403365836,-1.247669623963103,0 36.81666305901801,-1.247604676108197,0 36.81854151313767,-1.247929351398814,0 36.81880023765086,-1.247994255552944,0 36.82054922886212,-1.248188908937924,0 36.82114629149024,-1.247344761839166,0 36.82249986043617,-1.24792935372312,0 36.82262624499884,-1.248124035931339,0 36.82527419273826,-1.248707534484794,0 36.8273474060261,-1.248772313742619,0 36.82747706689614,-1.24877231336,0 36.82942701862775,-1.248577921256601,0 36.83093637632981,-1.247929297554133,0 36.83224761887331,-1.247474642996669,0 36.83335552932883,-1.247344635010325,0 36.83466303024011,-1.247734608794802,0 36.83620354167439,-1.24844833399861,0 36.83753863388164,-1.249484310608409,0 36.83861868773298,-1.250259604411573,0 36.83896583388166,-1.251741544517107,0 36.83991256601956,-1.252512638623089,0 36.84035661609241,-1.250582220087902,0 36.8404613424749,-1.249225537180131,0 36.84035836548908,-1.248318605862596,0 36.83928284870907,-1.247344705444314,0 36.8379976952649,-1.246824374588411,0 36.83889993848556,-1.244736376922724,0 36.83898676379135,-1.243950667256108,0 36.84029510622997,-1.246042555024396,0 36.84139102001481,-1.246368440645784,0 36.84261610470185,-1.246694069968549,0 36.84356523662473,-1.247474603699835,0 36.84362585535686,-1.247604553160037,0 36.84437840546429,-1.248383390688794,0 36.8452477704099,-1.249484259504057,0 36.84566193214847,-1.25058222234669,0 36.84583279467383,-1.251226726670667,0 36.84645024338457,-1.2502595907082,0 36.84680271609422,-1.249484243893912,0 36.84696614512824,-1.24857783110794,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kenya National Archives</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTady7ea2pvvJFXSW0ef2Q0DVvigExC42wQamzstb4mFJOF4YJgxg">The Kenya National Archives is situated at the edge of the central business district in downtown Nairobi along Moi Avenue next to Ambassadeur Hotel. It was established in 1965 and holds 40,000 volumes. It also houses the Murumbi Gallery which is currently the largest Pan-African art gallery in Africa and contains ancient art collections from different regions and communities of Africa. The collected artifacts were acquired by the government of Kenya after a concessionary arrangement was agreed upon with Joseph Murumbi, who had initially turned down several huge offers to buy his collections by overseas bidders]]></description>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82560804559238,-1.284865407664088,0 36.82576151428052,-1.285172073847681,0 36.82606290734231,-1.285168247224422,0 36.82611659221107,-1.285173348567305,0 36.82614628066749,-1.285168247207757,0 36.82619309076728,-1.285098722340147,0 36.82618762260264,-1.28504773736135,0 36.82605642593693,-1.28470174499597,0 36.82598988910305,-1.284581416525632,0 36.82595557219727,-1.284533204322021,0 36.82593151544532,-1.284504579503468,0 36.82592349749082,-1.284491633659665,0 36.82590375921605,-1.284483231043639,0 36.82561075250332,-1.28483774308411,0 36.82560804559238,-1.284865407664088,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kenya Parliament Buildings</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnO5IXY82jUhczCvrZc-VCeE862yyQ3hZqH3jgs6j8zNraVgs">The Parliament building is the symbol of and houses the Kenyan legislature. It represents the history of Kenya’s governance and thus making it one of the top places to visit while in the city.]]></description>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82028247291341,-1.288916549336109,0 36.82026427946266,-1.288916549372412,0 36.82024608601661,-1.288916549407939,0 36.82022789256902,-1.288920187198465,0 36.82022061524216,-1.288920187212026,0 36.82020606046957,-1.288920187238779,0 36.82018422837061,-1.288923825032975,0 36.82016603493299,-1.288931100573703,0 36.8201551188915,-1.288931100591922,0 36.82013692547215,-1.288931100621682,0 36.82012237071543,-1.288931100644947,0 36.82010417730334,-1.28893110067335,0 36.82009326127531,-1.288927462936546,0 36.82007870654723,-1.288912911944683,0 36.8200641518767,-1.288901998706381,0 36.82005323586992,-1.28888744770852,0 36.82003868114294,-1.288876534469988,0 36.82003140379459,-1.288861983503429,0 36.82001684913148,-1.288851070264435,0 36.82000593311889,-1.28884379477359,0 36.81998046241266,-1.288811055024339,0 36.81974031083423,-1.288294493420883,0 36.81881244895681,-1.288768039887958,0 36.81880517160118,-1.288775315411442,0 36.81878697824271,-1.288778953091849,0 36.81877970090162,-1.288793504157152,0 36.81876514616656,-1.288797141922292,0 36.8187542301544,-1.28880441743114,0 36.81873967548572,-1.288811692927613,0 36.81872512075547,-1.288818968422882,0 36.81873603686945,-1.288858983885087,0 36.81953807484477,-1.290573576729881,0 36.81954535219001,-1.290584489954678,0 36.81955262948643,-1.290606316492749,0 36.81955990681915,-1.290624505238154,0 36.81955990679393,-1.290639056275106,0 36.81956354543766,-1.290660882829467,0 36.81956718407033,-1.290671796143703,0 36.81957082271342,-1.29069362262962,0 36.81958173872182,-1.290715449185421,0 36.81958537734774,-1.2907300002309,0 36.81958901601061,-1.290740913553044,0 36.81959629334315,-1.290759102323329,0 36.81960720934223,-1.290770015562093,0 36.81961448667538,-1.290788204414165,0 36.81962176396522,-1.290813668727243,0 36.81963631864254,-1.290828219772533,0 36.81964359598353,-1.290842770831661,0 36.8196508733011,-1.290853684087153,0 36.81965815063641,-1.290871872958136,0 36.81966906663863,-1.290882786212457,0 36.81967998265916,-1.290900975085235,0 36.81968725997239,-1.290915526158611,0 36.81969817600066,-1.290930077229795,0 36.81970909199952,-1.290944628228419,0 36.81972000799349,-1.29096281711767,0 36.81973092403016,-1.290973730387171,0 36.81973820134154,-1.290991919289543,0 36.81975639472464,-1.29099919481721,0 36.81976731074858,-1.291010108093855,0 36.81978186544313,-1.291021021444329,0 36.81979642014318,-1.291028296906457,0 36.81981097485883,-1.291035572446088,0 36.81982916821817,-1.291053761356867,0 36.81984008425086,-1.291061036904636,0 36.81985827764586,-1.291061036889464,0 36.81987647104013,-1.291061036876019,0 36.81989830310566,-1.291057399045488,0 36.81991285782331,-1.291053761297023,0 36.81992741253417,-1.29104648573396,0 36.81994196725242,-1.291035572357681,0 36.81995652195994,-1.291028296799159,0 36.81997471534826,-1.291028296795182,0 36.81998927005461,-1.29102829679321,0 36.82002201815001,-1.291039210162004,0 36.82097171309985,-1.290591766499957,0 36.82097535177095,-1.290591766510131,0 36.8209862677938,-1.290577215483554,0 36.82100082256371,-1.290566302269521,0 36.8210044611975,-1.290555388950159,0 36.82101173855212,-1.290540837953693,0 36.82101901590784,-1.290526286920349,0 36.82102265453138,-1.290511735878727,0 36.82102993182871,-1.290497184847451,0 36.82103720923649,-1.290478996055168,0 36.82104084779115,-1.290460807255911,0 36.82104084773473,-1.290442618488406,0 36.82104084768005,-1.290424429685548,0 36.82104084765865,-1.290417154165092,0 36.82104084760633,-1.290398965365634,0 36.82103357023141,-1.290388052072958,0 36.82101173798733,-1.290351674485043,0 36.82065362054056,-1.289647738185528,0 36.82028247291341,-1.288916549336109,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>kenyatta international conference centre</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1okHweMJPbB8KgrZ8c3C_9PDXOmHX3WBi0XS1Kx7S2c7qkKDzA">The Kenyatta International Conference Centre is an internationally renowned venue for conferences, meetings, exhibitions and special events and among the tallest buildings in Nairobi. For Ksh. 200 you can go to the rooftop and enjoy a marvelous and exclusive view of the city.]]></description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82324145554629,-1.288425929265737,0 36.82268713003224,-1.288714863921281,0 36.82263027607931,-1.288719600514277,0 36.82260184914562,-1.288733810340291,0 36.82255447086243,-1.288757493463026,0 36.82251183041478,-1.288790649850928,0 36.82247392779395,-1.288819069584182,0 36.82243602514004,-1.288871172473035,0 36.82243602516953,-1.288923275386377,0 36.82244550087303,-1.28897064167984,0 36.82247866569628,-1.289032217850049,0 36.82249761706564,-1.289098530622642,0 36.8225497331732,-1.289136423641879,0 36.82260658713922,-1.289174316646344,0 36.82266817888448,-1.289164843398673,0 36.82274398407211,-1.289126950406313,0 36.82281031361179,-1.289093794041472,0 36.82286242966227,-1.289060637673428,0 36.82285769184251,-1.289018008063707,0 36.82332199848718,-1.28876696678142,0 36.82343096850511,-1.288771703326789,0 36.82360626812835,-1.288809596173171,0 36.82372471397984,-1.28873854654466,0 36.82332199901638,-1.28790016076362,0 36.82305194242227,-1.288042260934011,0 36.82324145554629,-1.288425929265737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kipande House</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A3Pw07NvDBUWZDOwLD9hqNkyvHSMuN7MAezTjnPwOqYLMbc6">This building was used as the registration center for African who used to work in Nairobi during the colonial period. Kipande house is now used as the Kenyatta Avenue Branch of KCB bank.]]></description>
+			<LookAt>
+				<longitude>36.81860095843383</longitude>
+				<latitude>-1.285334533894141</latitude>
+				<altitude>0</altitude>
+				<heading>1.093152442804453e-006</heading>
+				<tilt>0</tilt>
+				<range>70.01218596396133</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81861853283918,-1.285311432619903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maasai ostrich farm</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UjFm_7osfpwLGCmYDc6f4VV8F6-IH6FjfTCO7BIwnX48rESu">
+The Maasai Ostrich Farm is located about 45 km south of Nairobi. You will not only enjoy a taste of Ostrich meat but you will also get a chance to ride on Ostrich.]]></description>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.86828660378217,-1.570917333234998,0 36.87119233991979,-1.575368980843274,0 36.87942575639993,-1.573196759480676,0 36.87952577452403,-1.573120246426728,0 36.88209686289059,-1.572554243356165,0 36.88373447720971,-1.572340078785582,0 36.88046452145139,-1.567551752327216,0 36.86828660378217,-1.570917333234998,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mamba Village</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfJjxTQI_JBi-ktlnam1asMINqp6YJB1UDU3lYAbKtBYipOSr">
+
+People here go out of their way to make your visit incredible. Personalized tours of the parks, direct contact with the crocodiles, ostriches and tortoises. Great place for children and families - and to learn something new.]]></description>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.7513828802545,-1.336134600657027,0 36.75146058725777,-1.335411960819352,0 36.75152082105038,-1.334880031346298,0 36.75156097689815,-1.33449864939606,0 36.75165132794787,-1.333896469306876,0 36.75171156213631,-1.333505052866267,0 36.75175171834565,-1.333274217619719,0 36.75182199188973,-1.332922946532761,0 36.75186214831682,-1.332682074815554,0 36.75190230472889,-1.332521493515257,0 36.751922383224,-1.332290657704923,0 36.75193242292469,-1.332009639980195,0 36.75196254069806,-1.331768767111112,0 36.75199265862831,-1.331547966566216,0 36.75203281587746,-1.331287019835848,0 36.75204285565967,-1.331126436860554,0 36.75197258206099,-1.331116400776496,0 36.7518521126688,-1.331236838161392,0 36.75173164345841,-1.331327166361829,0 36.75158105746522,-1.331347239477922,0 36.75143047145927,-1.331397421617258,0 36.75127988559072,-1.3314375673416,0 36.751139338865,-1.331447603665135,0 36.7509285188225,-1.331477712873445,0 36.75068758164281,-1.331477712579968,0 36.75050687870861,-1.331437566626257,0 36.75032617567758,-1.331437566152574,0 36.75011535524167,-1.331377346996575,0 36.74994469084639,-1.331317127789239,0 36.74973386980535,-1.331236835319063,0 36.74958328315508,-1.331196688693313,0 36.74947544232533,-1.331126436674678,0 36.74930477842792,-1.331066218065817,0 36.74918430982181,-1.330995963004235,0 36.74903372398407,-1.330925707786648,0 36.74892329428822,-1.330905634691149,0 36.74883294273782,-1.330845415728712,0 36.74871247390533,-1.330795232963552,0 36.74862212223742,-1.33075508677882,0 36.74862212224086,-1.330885560996519,0 36.74860204409933,-1.331086289722769,0 36.74861208313067,-1.331256908940929,0 36.74855184877607,-1.331367309415052,0 36.74858196588128,-1.331558000893364,0 36.74856188772115,-1.33171858298022,0 36.74854180957522,-1.331839019292792,0 36.74851169235025,-1.33201967372652,0 36.74848157515455,-1.332140109769661,0 36.74846149691862,-1.332300691126477,0 36.74845145778084,-1.33242112715369,0 36.74842134051845,-1.332581708338536,0 36.74838118420932,-1.332732253042287,0 36.7483711449864,-1.332882797813417,0 36.74834102769446,-1.333013269865319,0 36.74830087117108,-1.333244105024418,0 36.74842133956339,-1.333274214172707,0 36.74852172987456,-1.333314359591154,0 36.74860204198892,-1.333394650209337,0 36.74871247120411,-1.333474940866408,0 36.74880282233621,-1.333565267822852,0 36.74885301742583,-1.333605413138951,0 36.74890321250103,-1.333655594776054,0 36.74890321229159,-1.333786066913432,0 36.74886305595388,-1.333906502691578,0 36.74885301676466,-1.333996829573031,0 36.74883293842447,-1.334147374480151,0 36.74883293820233,-1.334267810439833,0 36.74878274277074,-1.334378210175708,0 36.74877270341577,-1.334528755353114,0 36.74876266415285,-1.334629118955016,0 36.74873254668265,-1.334759591629334,0 36.74873254644706,-1.334859955417603,0 36.74872250714607,-1.334960319178807,0 36.74871246785849,-1.335050646839766,0 36.74868235045208,-1.335130937845953,0 36.74861207677616,-1.335191156286552,0 36.7485919981959,-1.335331666189835,0 36.74854180243158,-1.33544206688063,0 36.74850164565525,-1.335562504285349,0 36.74848156704871,-1.335672905291343,0 36.74846148840751,-1.335773270077213,0 36.74846148803147,-1.335863598382174,0 36.7513828802545,-1.336134600657027,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>McMillan Library</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTFD4Ky6T5UYovRUzNeXWSKp9GgCKH5GWc15wBLi_ARdEkGGv">The McMillan Memorial Library building (sometimes erroneously spelled “MacMillan”) is one of the oldest and largest libraries in Nairobi. Located in the city centre, the library is surrounded by many landmarks and important Nairobi buildings, including the Jamia Mosque, court houses and the Stanley Hotel. The McMillan building has a picturesque exterior architecture, finished in Nairobi blue stone, with a front entrance marked by classic large pillars and stone lion sculptures. Established in 1931, the building was named after US-born philanthropist, Sir William Northrup McMillan. Today the Library is operated by the Nairobi City Council and serves an average of 1,000 users per day (in conjunction with its two branches). The library also houses an extensive Africana section, as well as rare first edition books and works of art, including portraits and sculptures (these include a sculpture by Cesare Lapini and a portrait of Andrew Carnegie).]]></description>
+			<Camera>
+				<longitude>36.82172860155089</longitude>
+				<latitude>-1.284180383435699</latitude>
+				<altitude>71.92611553100497</altitude>
+				<heading>-39.25637439570901</heading>
+				<tilt>45.59981262293702</tilt>
+				<roll>-0.9819679736802105</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82122487835903,-1.283596485891619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nairobi Arboretum</name>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDu0T9Ta-W2S9VeDXOfkbdDK4WFmtdSBIS3aG8cKs5a2DYBCtl">Nairobi Arboretum was established in 1907 by Mr. Batiscombe, then Deputy Conservator of Forests, to try out introduced forestry trees for Kenya.It is located along state house road in Kilimani. The Arboretum occupies 30 hectares and holds over 350 tree species and offers a great space for walks, picnics and events.]]></description>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.8016185881351,-1.279963284844561,0 36.80170999889782,-1.27997212773445,0 36.80177758665525,-1.279957112150753,0 36.80183766466386,-1.279934588668401,0 36.80194280126892,-1.279949604732116,0 36.80202540866842,-1.279942097092854,0 36.80207046725452,-1.279904557881724,0 36.80213054528651,-1.279859510753988,0 36.80215307466138,-1.279791939870078,0 36.80221315278337,-1.279731877018198,0 36.80229576024564,-1.279686829984934,0 36.80240089708928,-1.279634275076372,0 36.80249101454252,-1.279544180729333,0 36.80255109285582,-1.279499133576129,0 36.80265623010097,-1.279491625915093,0 36.80275385758435,-1.279476610364711,0 36.80283646551416,-1.279356484315569,0 36.80286650486947,-1.27929642125578,0 36.80292658348883,-1.279228850315976,0 36.80298666212241,-1.279221342483905,0 36.80309179990417,-1.279123739930251,0 36.80318942800614,-1.279078692570026,0 36.80330207615567,-1.27903364515377,0 36.80341472426091,-1.278996105573742,0 36.80351986290074,-1.278943550129505,0 36.80360998178364,-1.278890994602804,0 36.80367006143803,-1.278808407341222,0 36.80373765083358,-1.278763359658623,0 36.80381275032372,-1.278725819801729,0 36.80375267095778,-1.278665756515031,0 36.80365504200757,-1.278650740928998,0 36.80355741323675,-1.278635725344422,0 36.80346729454624,-1.278635725587255,0 36.80336215623624,-1.278598186294578,0 36.80329456774553,-1.278523107284102,0 36.80321195929801,-1.278485567933385,0 36.80314437085007,-1.278440520710031,0 36.80306927255111,-1.278395473441754,0 36.80300168421331,-1.278357934073795,0 36.80297164518078,-1.278282855084367,0 36.80301670466067,-1.278215283637736,0 36.80300919508241,-1.278155220272334,0 36.80300919543961,-1.278095156929256,0 36.80356492448381,-1.276041737695311,0 36.80362500464116,-1.275831515601266,0 36.80357994561383,-1.275711388894122,0 36.80349733724944,-1.275651325756458,0 36.8034372586559,-1.275546215000881,0 36.80338469016988,-1.275433596176466,0 36.80333963167472,-1.275328485296195,0 36.80327955372291,-1.275208358561195,0 36.80320445604917,-1.275080723822784,0 36.8031443779204,-1.274975612786367,0 36.80309931985924,-1.274855485786586,0 36.8030317317845,-1.274780406545564,0 36.80297916354332,-1.274712835210881,0 36.80293410514626,-1.274630247653469,0 36.80290406669152,-1.27454015215208,0 36.80284398868609,-1.274465072645839,0 36.80279142035574,-1.274405009032369,0 36.8027163230021,-1.274299897473095,0 36.80266375494108,-1.274217309748022,0 36.80261118667266,-1.274157245945962,0 36.8025360890774,-1.274097182264209,0 36.8024685008744,-1.274067150622071,0 36.80239340272505,-1.274059643195539,0 36.80227324573691,-1.274059643976329,0 36.80216810821008,-1.274082168598599,0 36.80204795141641,-1.274089677308429,0 36.8019277947389,-1.274097185767833,0 36.80181514781138,-1.274119710304159,0 36.80168748169685,-1.274097186527995,0 36.8015598152007,-1.274157250898658,0 36.80143965872134,-1.27420980716222,0 36.80129697315957,-1.274217315139657,0 36.80115428768096,-1.274217315074612,0 36.80099658269471,-1.274217314864605,0 36.80086140699513,-1.274202298566884,0 36.80080132888892,-1.274209806480993,0 36.80080132884404,-1.274299902275247,0 36.80070370196818,-1.274344949896733,0 36.80064362387626,-1.274359965652944,0 36.80061358486491,-1.274435045341895,0 36.80056852635397,-1.274502616841455,0 36.80051595808433,-1.274562680356372,0 36.80045588008294,-1.274615235746244,0 36.80037327277647,-1.274667791141315,0 36.80028315572906,-1.274697822511847,0 36.80020805812489,-1.274712838021495,0 36.80016299947004,-1.274682805956696,0 36.80008790184464,-1.274712837337489,0 36.80005786289893,-1.27477290061149,0 36.80003533376233,-1.274847979932308,0 36.79996023618124,-1.274878011246978,0 36.79986260895182,-1.274855486873558,0 36.79980253065091,-1.274825454677851,0 36.79974245239394,-1.274825454251586,0 36.79969739384964,-1.274870501617688,0 36.79961478632936,-1.274915548686654,0 36.7995055939631,-1.274915543457469,0 36.79946053390662,-1.274983115325343,0 36.79940045471034,-1.2750356712672,0 36.7993328654909,-1.275095735195163,0 36.79919017826257,-1.275148291288893,0 36.79908504065341,-1.275155799658181,0 36.7990024323694,-1.275208355427253,0 36.79890735035236,-1.275222726139414,0 36.79882596994015,-1.275222726756747,0 36.79876629113826,-1.275222727179952,0 36.79873125833937,-1.275295959869917,0 36.79872840698243,-1.275380133187264,0 36.7986675076523,-1.275424884001025,0 36.79858011736259,-1.275458382719474,0 36.79853751801334,-1.275514078785202,0 36.79852154167799,-1.275602894938524,0 36.79847157890297,-1.275630570695878,0 36.798437787418,-1.275658208437131,0 36.79843528957633,-1.275702349779488,0 36.79843341978093,-1.275735392588708,0 36.79838276809731,-1.275779365983428,0 36.7983054984451,-1.275823243735207,0 36.79822249400942,-1.275877956448311,0 36.79815282305469,-1.275883419912243,0 36.79807443605318,-1.275959747168005,0 36.79801862751993,-1.276014089225436,0 36.7979680373751,-1.276073695591423,0 36.79788600512778,-1.276127729557251,0 36.79777350096927,-1.276154691965142,0 36.79769802588897,-1.276186998645979,0 36.79763755018764,-1.27624609166536,0 36.79759290453043,-1.276310357288325,0 36.79752277744189,-1.276353085953674,0 36.79743647488257,-1.27641168805174,0 36.79731329794441,-1.276480722421225,0 36.79722247349574,-1.27653366238554,0 36.79712638700558,-1.276597003695345,0 36.79704607258282,-1.276670645836124,0 36.79695593192445,-1.276728314953337,0 36.79686595987867,-1.276791034468518,0 36.79679676654399,-1.276874350177893,0 36.79671725162173,-1.276972829682789,0 36.79665387374632,-1.277055376769053,0 36.79664679695281,-1.277146983745001,0 36.79658162625271,-1.277196990169095,0 36.79657029197654,-1.277252408384851,0 36.79655367846797,-1.277302155305154,0 36.79652659197316,-1.277329739611851,0 36.79650451525365,-1.277401282816353,0 36.79648795168117,-1.277461621646933,0 36.79648229133201,-1.277499925041805,0 36.79649269205405,-1.277532698605214,0 36.79654055157369,-1.277549065432636,0 36.7965134427135,-1.277598085674537,0 36.79649694664047,-1.277657836958919,0 36.79657643974215,-1.277684938003308,0 36.79666651814684,-1.277706592436741,0 36.79674033197667,-1.277744431255789,0 36.7968304633754,-1.277749831036628,0 36.79783152757221,-1.278044582990399,0 36.79928370523903,-1.27839782731506,0 36.80013030402279,-1.278610902583561,0 36.80141295624368,-1.278908386201533,0 36.80152763363073,-1.278950840283898,0 36.80158879544988,-1.27901963465087,0 36.80160722128448,-1.279109236658588,0 36.8016185881351,-1.279963284844561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Nairobi County Boundary</name>
+			<description>Boundary of Nairobi County</description>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.79191194289522,-1.198869611841458,0 36.79086917506737,-1.198869800393112,0 36.78826216817369,-1.199391775798896,0 36.78513373625953,-1.200435296509108,0 36.78356954748752,-1.200957025459585,0 36.78252655454533,-1.202521674152397,0 36.78252620482098,-1.20460762421038,0 36.78304721205151,-1.206693440899472,0 36.78408956288338,-1.208779147317489,0 36.7846105641849,-1.210864871468639,0 36.784610220576,-1.212950613762328,0 36.78460988268243,-1.215036305109226,0 36.7835668852799,-1.217122074155321,0 36.78096000729087,-1.21868655992555,0 36.77887443002334,-1.220772317255564,0 36.77626772301194,-1.22181530609735,0 36.77418235825796,-1.222858211543969,0 36.77209702280273,-1.2239010841077,0 36.77053295600417,-1.225465249803676,0 36.76896896539557,-1.226508029602986,0 36.76688369784448,-1.22755080977724,0 36.76479854311145,-1.227550893090015,0 36.76271339641163,-1.227550959927948,0 36.76062829331157,-1.227029668732517,0 36.75854319097814,-1.226508370082169,0 36.75645811753532,-1.225465703775398,0 36.75385169595599,-1.225465703899446,0 36.7517665146306,-1.226508368425252,0 36.75020260732093,-1.228072341350856,0 36.74863869694963,-1.230157605956994,0 36.74655354966197,-1.231721485798914,0 36.74551096209947,-1.23328537719882,0 36.74394711490583,-1.234849214462542,0 36.74186201315531,-1.236412995324538,0 36.73977692649186,-1.237976734139415,0 36.73769186065645,-1.238497889795683,0 36.73560679511291,-1.23901902887689,0 36.73352173303218,-1.240061425385902,0 36.73195794032661,-1.241103842538509,0 36.73143669099856,-1.243188853951258,0 36.73091544022654,-1.244752577477411,0 36.72883040705491,-1.246316146095401,0 36.72622408976224,-1.246315904996929,0 36.72361775987456,-1.246315642576037,0 36.72153271082429,-1.247357910579102,0 36.71996894912213,-1.248921459797887,0 36.71892647404892,-1.251006273500325,0 36.71736273145153,-1.253090999159769,0 36.71527772197501,-1.255175628931206,0 36.71423523481772,-1.25673914267818,0 36.71215018310647,-1.257781302079962,0 36.7111077138408,-1.259865989299757,0 36.71006524538682,-1.26195064939608,0 36.71006533430983,-1.264556596360328,0 36.70850158453838,-1.266641134651292,0 36.70693780006211,-1.267683295887518,0 36.70433141186474,-1.267682955662649,0 36.70172499340484,-1.26768259914136,0 36.69911849396384,-1.266639854109654,0 36.69651200501692,-1.266639460355049,0 36.69442684587227,-1.26768151417763,0 36.692341696235,-1.269244745693904,0 36.69025652725733,-1.270807965099335,0 36.68869268211203,-1.272892437736805,0 36.68608615303793,-1.274455550047731,0 36.68452227161495,-1.276539991823899,0 36.68452234732923,-1.278103505985821,0 36.68504378950061,-1.280709415865422,0 36.68504386904042,-1.282794055047891,0 36.6850439391551,-1.284878672268962,0 36.68504399984517,-1.286963273901925,0 36.6840014141927,-1.289568862207022,0 36.68348014286482,-1.292174500440838,0 36.68191618722626,-1.294258855069706,0 36.68035221385161,-1.296343206749361,0 36.67930955331992,-1.298427617756824,0 36.67722419121313,-1.299990769796776,0 36.67618149857503,-1.302075183199569,0 36.67409607580776,-1.303638341819742,0 36.67201062893795,-1.304680372066666,0 36.66888237273241,-1.306764562320978,0 36.66731820805232,-1.308327801897003,0 36.66575401714398,-1.309891049598026,0 36.6636683945035,-1.311454249033177,0 36.66210415640356,-1.312496371311892,0 36.6600184643382,-1.314059591681493,0 36.65845412837327,-1.316144022705169,0 36.65688977035102,-1.317707319393552,0 36.65532536364683,-1.319791777933031,0 36.6542823918381,-1.321355143443981,0 36.65167507600226,-1.322397241779803,0 36.65063205105673,-1.323960631232603,0 36.65115340496138,-1.325524139237918,0 36.65167467650468,-1.328129953016137,0 36.65219596061183,-1.330214604751221,0 36.65376013860981,-1.332299299658555,0 36.65480284080844,-1.334383955154148,0 36.65584546717242,-1.336989753077373,0 36.65740961527985,-1.338553252695573,0 36.65949521920983,-1.339595601850662,0 36.66158067473007,-1.341680234068231,0 36.66366620057916,-1.342722556992821,0 36.66627315354948,-1.343243736222024,0 36.66783722186239,-1.344286036657327,0 36.670443967684,-1.345849476436811,0 36.67148653286179,-1.347412897095653,0 36.67357177711872,-1.349497452122838,0 36.67513574867286,-1.350539725207306,0 36.67669964255961,-1.352103131677719,0 36.67826344806612,-1.354187670297236,0 36.68034878680807,-1.354708787655059,0 36.68243403235206,-1.355751039638199,0 36.68399791592121,-1.356793294481991,0 36.6855616577176,-1.358877822470817,0 36.68764684375825,-1.359920063078677,0 36.68921048401317,-1.362525733552908,0 36.69077418274169,-1.364610271413556,0 36.69285932066111,-1.365652512484802,0 36.69390167690038,-1.36773706958894,0 36.69650803343999,-1.369300449021093,0 36.69807169027255,-1.371385012384776,0 36.69963547085524,-1.372427277118683,0 36.70172054581602,-1.373469530983718,0 36.70380547842844,-1.375554099148711,0 36.70536929989446,-1.376075217680847,0 36.70641163511549,-1.378159838265797,0 36.70797525994803,-1.380244463700337,0 36.71006024387545,-1.381807920933142,0 36.71162386728314,-1.383892581755986,0 36.7137089621671,-1.384413707858477,0 36.7152727057322,-1.385456031694175,0 36.71787906821439,-1.385977159845691,0 36.71944280641147,-1.387019497802225,0 36.72204915396848,-1.387540643673367,0 36.72361284188699,-1.389104180318185,0 36.72621908817497,-1.390667730104952,0 36.72778283137612,-1.391710110473033,0 36.72986781337166,-1.393273700443921,0 36.7319528800446,-1.393794901921895,0 36.734037982214,-1.393794909060741,0 36.73664435037781,-1.393794930029388,0 36.73977198367666,-1.393794972857775,0 36.74081450107675,-1.394316193943801,0 36.74342079327319,-1.395879868152764,0 36.74550588657687,-1.3958799220086,0 36.74811222279941,-1.396922424021903,0 36.75123986214393,-1.397443752686183,0 36.75332496697926,-1.397443840429125,0 36.75645262957087,-1.39744398913445,0 36.7580164661815,-1.398486507753521,0 36.76062288089973,-1.399529103066269,0 36.76218674184541,-1.400050426969042,0 36.76427192088775,-1.401614254475788,0 36.76635708556335,-1.401614404688744,0 36.76948484763442,-1.401614648278682,0 36.77209133443373,-1.401614868018907,0 36.77469783895021,-1.40161510298554,0 36.77782566905528,-1.401615405044929,0 36.77991083427121,-1.400573144889053,0 36.78251731568055,-1.399530948499992,0 36.78460257459048,-1.399531178485022,0 36.78720917334228,-1.399531479230806,0 36.78929447185349,-1.399531730439253,0 36.79190112309814,-1.39953205771545,0 36.79398646599678,-1.399532330149172,0 36.79810930563782,-1.401101466961164,0 36.80019520131193,-1.400579782599982,0 36.80228106333446,-1.400058110354784,0 36.80332434181998,-1.397972834560488,0 36.8033247461575,-1.395887784083214,0 36.80488928580154,-1.394323755981614,0 36.80697492705918,-1.39432341514533,0 36.80906044261433,-1.394844329213925,0 36.81166732414521,-1.395365168067338,0 36.81323139841408,-1.395886174273423,0 36.81583821917121,-1.396407028232515,0 36.81792363290921,-1.3969279677098,0 36.82000887174069,-1.398491407594617,0 36.82209417450999,-1.399533610385253,0 36.82470096383131,-1.39953324950571,0 36.82678629934578,-1.400054219013981,0 36.82939302696662,-1.400053882350187,0 36.8319995994101,-1.40109604765254,0 36.83356336576851,-1.403180865111759,0 36.83512725677131,-1.404223190941493,0 36.83721253022294,-1.40474420471302,0 36.83929773952949,-1.405786489629714,0 36.8424256412219,-1.406307412257972,0 36.84398951515699,-1.407349779211804,0 36.84607470904982,-1.408392105790983,0 36.84920250060021,-1.409955624855924,0 36.85024509726419,-1.410476805957951,0 36.85337288993468,-1.412040374536169,0 36.85545811712467,-1.412561489156602,0 36.8570220304238,-1.413082654766485,0 36.85962856682014,-1.413603749870226,0 36.86119247898883,-1.414124935229236,0 36.86379901299178,-1.414646066885566,0 36.86536291711852,-1.4156885686219,0 36.86744814138935,-1.41673106553514,0 36.8695333753689,-1.417773577913688,0 36.87213993355917,-1.418294776759131,0 36.87526781072986,-1.418815993123782,0 36.87631046281757,-1.42037990696141,0 36.87787445737629,-1.422465171690123,0 36.87995976791081,-1.423507802972769,0 36.88204511668288,-1.425071796460893,0 36.88465177091193,-1.425593139946238,0 36.88569459574614,-1.42872128081321,0 36.88673738802798,-1.430806772414442,0 36.88673754514946,-1.433413690087358,0 36.88830168630555,-1.434977895692128,0 36.89090843391844,-1.43497794833806,0 36.89299388573407,-1.435499416963541,0 36.89507935296168,-1.436020893883459,0 36.89716483769215,-1.436542401072584,0 36.89925046431927,-1.438106758579263,0 36.90133599694267,-1.438628313449299,0 36.90342155016193,-1.439149877804658,0 36.90550712498539,-1.439671473621212,0 36.90759280561318,-1.440714527284344,0 36.90967851824658,-1.441757614242305,0 36.91124278160793,-1.442279217788154,0 36.91384995537018,-1.443322418913679,0 36.91541426236361,-1.443844072896285,0 36.91802151877675,-1.444887334372912,0 36.91906457219559,-1.44593043586499,0 36.9211504880926,-1.446973708019326,0 36.92375763184182,-1.446974100467704,0 36.92584362841053,-1.448017434812621,0 36.92792966924576,-1.449060807147362,0 36.92949429889594,-1.450104122092135,0 36.93158042315961,-1.451147566889519,0 36.93418776099475,-1.451148083984198,0 36.9367951391059,-1.451148627989487,0 36.93940289379883,-1.452192284155195,0 36.94096771782091,-1.45323574638662,0 36.94409674565021,-1.453236501155055,0 36.94618280040443,-1.453237026261212,0 36.94879041394872,-1.453237707314444,0 36.95139807379154,-1.45323841577981,0 36.95348424630475,-1.453239002293042,0 36.95557087513799,-1.454282761556754,0 36.95765668721975,-1.453240227959271,0 36.95713427711222,-1.451153795003232,0 36.95609013341839,-1.448545738440615,0 36.95452510754557,-1.447502226447529,0 36.95243858789335,-1.44645860850781,0 36.95035213403935,-1.445415032175726,0 36.94878705219441,-1.443850125742674,0 36.94670035312973,-1.441763656511003,0 36.94513521603432,-1.439677391043156,0 36.94357013097185,-1.4375912015393,0 36.94252656766734,-1.435505190945292,0 36.94148288507617,-1.432897811400246,0 36.94148228800264,-1.430812144324372,0 36.94096025680707,-1.428726419519612,0 36.94043825018372,-1.426640747303221,0 36.93939482927473,-1.424555039218902,0 36.93782989475272,-1.421947938715149,0 36.93730809121222,-1.420383794930961,0 36.93678617584885,-1.418298332158742,0 36.9352214817353,-1.416212771918451,0 36.9336568302336,-1.414127272724476,0 36.93104957557323,-1.412563019221935,0 36.92948523783421,-1.411520230372256,0 36.92739946074269,-1.409956115550578,0 36.92531382671867,-1.408913327949504,0 36.9232282307331,-1.407870567904921,0 36.92062132859731,-1.406827791040519,0 36.91905714813928,-1.405785128122605,0 36.91801416197091,-1.403700007365158,0 36.91644987959641,-1.401614895991155,0 36.91592833846611,-1.400051140625321,0 36.91540673687743,-1.397966170359207,0 36.91436383677213,-1.39588120797014,0 36.9122783552795,-1.393796234907061,0 36.91123551133286,-1.391711355672032,0 36.91019268606442,-1.389626513717238,0 36.90914988321493,-1.387541713289813,0 36.90706463424643,-1.386499275132991,0 36.90550059392857,-1.38441451414058,0 36.90497913196253,-1.382329812448921,0 36.90497890670638,-1.379723987521889,0 36.90497877470244,-1.378160511190995,0 36.90549978353295,-1.37503361202776,0 36.90602096639811,-1.373991326578223,0 36.90654202210993,-1.371385622721612,0 36.90758438414168,-1.369301089083534,0 36.90966927573842,-1.367216584516662,0 36.91071167976014,-1.365653211714293,0 36.91227535278648,-1.364089849643091,0 36.91383902908694,-1.362526493852416,0 36.91540270729374,-1.360963143546564,0 36.9169663903735,-1.359399800643853,0 36.91853008345948,-1.357836458920716,0 36.92061505795155,-1.356273124155327,0 36.9227000012208,-1.354188675130297,0 36.92426376206514,-1.35314645671966,0 36.92687011450623,-1.352104239363959,0 36.92895515224947,-1.350540901869017,0 36.92999761242319,-1.348977560396332,0 36.93208272515519,-1.347935333329399,0 36.93364641693439,-1.345329761169916,0 36.93521021634329,-1.343766411888963,0 36.93677402597177,-1.342203059460278,0 36.93938053665881,-1.341160801277752,0 36.94094442730983,-1.340118549147548,0 36.94302971004548,-1.33959740108901,0 36.94511502553748,-1.33907625025223,0 36.94720032367327,-1.338033971420816,0 36.94928565242167,-1.336991683686846,0 36.95137105013596,-1.336470513449452,0 36.95345648904227,-1.33594933721025,0 36.95554196147621,-1.335428156076025,0 36.95762745977289,-1.334906968439572,0 36.95971296048255,-1.333864638446046,0 36.96231998815159,-1.333864559530387,0 36.96544845439797,-1.333343318340206,0 36.96701265723132,-1.332300972867387,0 36.969619772236,-1.331258575900389,0 36.97170549890188,-1.330216184210133,0 36.97326972452091,-1.328131488575211,0 36.97535555877559,-1.327610222212422,0 36.976919930483,-1.326567812961522,0 36.97952737857023,-1.326567662827517,0 36.98161338387204,-1.326567540962988,0 36.98265624187573,-1.323961612127484,0 36.98213461797702,-1.321876957216764,0 36.98109150253677,-1.319792352111564,0 36.98004841554637,-1.317707759502482,0 36.97900534219316,-1.315102008335641,0 36.97900528558522,-1.312496157408022,0 36.97691932141065,-1.310932876722124,0 36.97535486950089,-1.309369549798151,0 36.97535486411148,-1.306763709426073,0 36.9753548819921,-1.304157855950286,0 36.97639786803156,-1.302073016418489,0 36.97744086872719,-1.300509329814961,0 36.97900538032144,-1.298945543512119,0 36.98004845033764,-1.296860627132695,0 36.98265603533434,-1.295817802196384,0 36.98422064408742,-1.29477513023362,0 36.98682836373888,-1.293732246845157,0 36.988914555919,-1.293731857319265,0 36.99152236307737,-1.29373136124567,0 36.993087053921,-1.294252279791163,0 36.99569493111503,-1.295294223485231,0 36.99725964823432,-1.296857600864742,0 36.99830275098496,-1.299463529611077,0 36.99986754100274,-1.301026927295529,0 37.00038911363564,-1.302590510737823,0 37.00143232404158,-1.304675236299705,0 37.00299720716107,-1.306238663510684,0 37.00508379049784,-1.307802027696637,0 37.00769211256151,-1.307801632485033,0 37.00977883145411,-1.30780131136765,0 37.01186562833977,-1.306758494450998,0 37.01395247566541,-1.306236902736648,0 37.01603939553035,-1.305715295553257,0 37.01864811952252,-1.305714845097502,0 37.02125694372332,-1.305714387271371,0 37.02334407995341,-1.305714015702379,0 37.02595309174944,-1.305192261039769,0 37.02804040610847,-1.304149294437741,0 37.03012781518137,-1.302584998500357,0 37.03169337428244,-1.302584679186533,0 37.0343027015272,-1.303105450092764,0 37.03586833035222,-1.30414775366577,0 37.03847785630812,-1.3046685443113,0 37.04056556842043,-1.304668121573532,0 37.04317528449975,-1.305188917942376,0 37.04421918647665,-1.306752709904088,0 37.04735108207861,-1.306752091916816,0 37.04891709484051,-1.306751779068891,0 37.05152720795248,-1.306751251945786,0 37.05309331259915,-1.308315013561869,0 37.05570363537729,-1.308835868289114,0 37.05726988594471,-1.308835561989064,0 37.06301322705911,-1.307791634747675,0 37.06510186137896,-1.307269796559979,0 37.06719058864319,-1.307269347116158,0 37.07084606525558,-1.307268549771053,0 37.07189052896359,-1.307268319430147,0 37.07502410100345,-1.306746186345485,0 37.0760686859721,-1.305703068090514,0 37.07711334915853,-1.303617041051754,0 37.07920267463362,-1.302052149104634,0 37.08076980444132,-1.299965880155548,0 37.08233697335255,-1.298401023359554,0 37.08390426832523,-1.296314643314418,0 37.08547158977266,-1.294749687458093,0 37.08756133816323,-1.293706007598921,0 37.08912889429211,-1.291619450332057,0 37.09069638009311,-1.290575864893623,0 37.09226393128839,-1.289532244693358,0 37.09435423003731,-1.287445318205306,0 37.09592194263819,-1.286401610632314,0 37.09801226774377,-1.285357652879869,0 37.10062528322295,-1.284313428803024,0 37.10114830203934,-1.282226910583677,0 37.1027164416714,-1.280661457952652,0 37.10480742915427,-1.278574102876481,0 37.10637562194123,-1.277530131493654,0 37.1063761996975,-1.275443684658,0 37.10637697095928,-1.272835599605212,0 37.10585515679891,-1.270227759046608,0 37.10533320244048,-1.268141532616846,0 37.10324339846552,-1.266056201997866,0 37.10115352619063,-1.2644925289018,0 37.09906358777578,-1.26345050200514,0 37.09749607798787,-1.262929800478005,0 37.0964517755807,-1.260843951622458,0 37.09645280282709,-1.258235829796622,0 37.09645366218196,-1.256149298166033,0 37.09645455492338,-1.254062735134263,0 37.09645548105323,-1.251976139752361,0 37.09645644057348,-1.249889511071284,0 37.09645768692933,-1.247281182380678,0 37.09541388353762,-1.244673544687888,0 37.09436985469706,-1.242587573239532,0 37.09332616854547,-1.239979902194608,0 37.09123637298519,-1.239459768813389,0 37.08914667112965,-1.238939634346328,0 37.08601188793828,-1.23894193667375,0 37.08444484905969,-1.238421410708392,0 37.0818336014867,-1.236858325510078,0 37.08026695527246,-1.235816144293406,0 37.07870009923718,-1.235295628195942,0 37.07661123023618,-1.234253836062911,0 37.075567938264,-1.231646290981525,0 37.07504647499192,-1.230081678295748,0 37.07400326762926,-1.227474088780624,0 37.07295952214548,-1.225909832452347,0 37.07191609526066,-1.22382388044287,0 37.07087272377048,-1.221737907445522,0 37.07035167992974,-1.219651492373984,0 37.06983100862064,-1.217043323221404,0 37.06878738847194,-1.215479000733422,0 37.06774414907117,-1.213392922257039,0 37.06565503260821,-1.213394658921983,0 37.06356600179753,-1.213396376850018,0 37.0614770556824,-1.213398076044209,0 37.05886600371049,-1.213400173686707,0 37.05677724466305,-1.213401830740904,0 37.0546882546686,-1.213925159786846,0 37.05155540378711,-1.213927572211671,0 37.04998874308156,-1.214450446243778,0 37.04737795826023,-1.214974060438921,0 37.04528906807684,-1.216018906997079,0 37.04267850926362,-1.216542432689524,0 37.04111213147279,-1.217065170574582,0 37.03850152614595,-1.218110232949512,0 37.03693527934098,-1.218632908485171,0 37.03432410872815,-1.221242650280003,0 37.03275750616167,-1.222808402300443,0 37.03119097224057,-1.224374102899969,0 37.02910259099194,-1.225940047257998,0 37.02753598307822,-1.228027148485756,0 37.02544757724458,-1.230114459851535,0 37.0238813530065,-1.231679869545731,0 37.02231520151219,-1.23324523236669,0 37.02022746924492,-1.234289326573858,0 37.01709622161486,-1.235333910724986,0 37.01553066028104,-1.235856174077435,0 37.0139647709771,-1.237421321698675,0 37.01239877782844,-1.239507860021979,0 37.01187635256869,-1.241593836594015,0 37.00978905253869,-1.242637640678795,0 37.00770215020201,-1.242638580735583,0 37.00613747415171,-1.241075039185767,0 37.0040511418121,-1.239511724486624,0 37.0024862241232,-1.23899100681457,0 36.99987798413857,-1.238470745559559,0 36.99831314310345,-1.237950017078311,0 36.99622682888909,-1.236908103208131,0 36.99414057011374,-1.235866176712027,0 36.9920543482404,-1.23482424243977,0 36.98996801835567,-1.234303714065173,0 36.98788189368506,-1.23326176345748,0 36.98579565301303,-1.232741211768156,0 36.98423133995426,-1.23117761857345,0 36.98162345675381,-1.231178682897968,0 36.97901564746907,-1.231179722283598,0 36.97692945721964,-1.231180535836,0 36.97484330346929,-1.231181333434104,0 36.97275706203257,-1.231703504662296,0 36.97067087969267,-1.232225661023547,0 36.96858461505408,-1.233269166549654,0 36.9664985344649,-1.233791255347504,0 36.96441249256366,-1.234313330135354,0 36.96232639509024,-1.235356734623388,0 36.9602404486719,-1.23587874927611,0 36.95763320997313,-1.235879549652405,0 36.95554746526108,-1.235880172809458,0 36.95398326711643,-1.235359285161612,0 36.95137615811557,-1.235360031950458,0 36.94824769984694,-1.23536089651284,0 36.94616218735676,-1.234840116462385,0 36.94355539566653,-1.233798113315527,0 36.94146993811444,-1.233277309523215,0 36.9393846660269,-1.231713794375603,0 36.93782062261629,-1.231192836705839,0 36.9352139311981,-1.230150763474285,0 36.9336499119552,-1.22962978322214,0 36.93104326378635,-1.228587670122835,0 36.92947934462256,-1.227545304433419,0 36.92739408031257,-1.226503035784072,0 36.92530882732962,-1.225460746845913,0 36.9221807796126,-1.225461374257443,0 36.92061695237873,-1.223897571949558,0 36.91905306643039,-1.222855122762123,0 36.91748917800547,-1.221812657014436,0 36.9159253495525,-1.220248794477868,0 36.91384018673146,-1.218684980601591,0 36.91279762789734,-1.217642374043003,0 36.91279783417977,-1.21555675053806,0 36.91279804585689,-1.213471077271978,0 36.91331960552424,-1.211385261153894,0 36.91540516295418,-1.209820543298666,0 36.91696940750533,-1.208255882936405,0 36.91957634092256,-1.207212421240613,0 36.9206193665984,-1.205126294499479,0 36.9221837150128,-1.203561484268126,0 36.9242695675631,-1.201474985493502,0 36.92531251934868,-1.200431702190536,0 36.92687706528978,-1.198345202384436,0 36.92844156408891,-1.196780164283263,0 36.93000599364919,-1.19573663475784,0 36.93261329819615,-1.194692768923546,0 36.93365648162353,-1.193127751652854,0 36.93469981117017,-1.191041092306736,0 36.93417895931061,-1.188433249131611,0 36.93522221466985,-1.186868057758798,0 36.93782948191983,-1.186867199696441,0 36.93939426058952,-1.185301768524864,0 36.93939480166323,-1.183215173130754,0 36.93835240104521,-1.181128881988225,0 36.93678852616092,-1.179042710239015,0 36.93522451189907,-1.177478177291512,0 36.93366062028782,-1.175391886759402,0 36.93209646746336,-1.174348975449129,0 36.92948925766758,-1.173828091462449,0 36.92740353155975,-1.173307022152327,0 36.92479625208588,-1.173307798683253,0 36.92218921432595,-1.172265089090015,0 36.92062507757902,-1.171222053429216,0 36.9180179494732,-1.170700996443726,0 36.91645362741811,-1.170701389377817,0 36.9138466117581,-1.169658534024208,0 36.91228246688911,-1.168615396835208,0 36.91071839360854,-1.167050475077053,0 36.9086327228427,-1.166529156956019,0 36.90602555537351,-1.166529674381335,0 36.90341840822882,-1.1665301516651,0 36.90081127956062,-1.166530588808548,0 36.89924696470973,-1.167052587042577,0 36.89768257623454,-1.168618062846434,0 36.89559684880101,-1.169661820674384,0 36.89403252404909,-1.17122720111649,0 36.89298960034283,-1.173314168722097,0 36.89090396503735,-1.174357783234315,0 36.88881835867564,-1.175401354063022,0 36.88725413653914,-1.177488187286588,0 36.8867327174893,-1.179053206057337,0 36.8867326593068,-1.181661426603215,0 36.88725399459391,-1.183226280663617,0 36.8893394236059,-1.184790960772996,0 36.89090346415686,-1.186355644425278,0 36.89090338401644,-1.188442012059241,0 36.89142466084716,-1.190528269889255,0 36.89298865794145,-1.192092803690092,0 36.89194584886257,-1.194700640649204,0 36.89142444420288,-1.196265293688371,0 36.89038167785039,-1.198872971232474,0 36.88777496946329,-1.200437689026409,0 36.88568964528356,-1.200437826240578,0 36.88308299607789,-1.20043796883896,0 36.88047635066265,-1.200438079305084,0 36.87839103612225,-1.200438144542875,0 36.87630570871919,-1.199916684897084,0 36.87369905982776,-1.199916711709398,0 36.87057105274889,-1.199395203892138,0 36.86900705592705,-1.199395181059513,0 36.8664003554093,-1.198873604584846,0 36.86483634930333,-1.198873550336899,0 36.86327221747524,-1.197308944873708,0 36.86118685182347,-1.197308837029015,0 36.85962296924662,-1.198873285005108,0 36.85753776151617,-1.200437665866058,0 36.85649534882293,-1.203045043778485,0 36.85545284298167,-1.204609404428948,0 36.85545311397698,-1.207216724540632,0 36.85336796970356,-1.208780906459758,0 36.8507613227597,-1.208780669692597,0 36.84867605848089,-1.209301912145608,0 36.84711219114811,-1.210344630088322,0 36.84659113230752,-1.212430309964767,0 36.84659140179048,-1.214515997216803,0 36.84554895103099,-1.216080110004641,0 36.84346370965179,-1.216601279800519,0 36.84137846213854,-1.21712242008135,0 36.83929320532219,-1.217643552820676,0 36.83720793819482,-1.218164656545156,0 36.8351225752412,-1.218164347863234,0 36.83199449245531,-1.218163851285567,0 36.82990907987185,-1.218163497863429,0 36.82730208507735,-1.217120208873747,0 36.82573798613208,-1.217119912406951,0 36.82417365908033,-1.216076765634792,0 36.82208803649018,-1.215554915588897,0 36.82156620422033,-1.213469064670217,0 36.81895900836341,-1.212425589472014,0 36.81791572389226,-1.210339514826429,0 36.81582983565748,-1.209296066293363,0 36.8137439012972,-1.208252576079008,0 36.81113662495132,-1.207730385118782,0 36.80852943544835,-1.207729653093063,0 36.80592189745556,-1.206685893622416,0 36.80435705772415,-1.205120895974636,0 36.80174938893535,-1.204077025317351,0 36.7996631364266,-1.203033272715898,0 36.7949685777384,-1.199902321899602,0 36.79392498663729,-1.198337232215924,0 36.79079639050121,-1.199900738353983,0 36.79191194289522,-1.198869611841458,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Nairobi National Museum</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyvuXmcR2OtBseah0Y7sgs56beqmgtZeDptKXM8GaiVXJJV5y7g">The Nairobi National Museum was founded in 1920, and established at its present location in 1929. Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with. The Museum aims to interpret Kenya’s rich heritage and offers a one stop for visitors to sample the country’s rich heritage both for education and leisure. It is open on all 356 days throughout the year from 0830hrs -17300hrs.]]></description>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.81447114539127,-1.273946863113081,0 36.81437127232243,-1.274102989608288,0 36.8144384596396,-1.274208284232581,0 36.81445117075589,-1.274208284232537,0 36.81449656757702,-1.274280901233997,0 36.81454922791408,-1.274291793792681,0 36.81459099301176,-1.274349887427092,0 36.81466907558832,-1.274304501798662,0 36.81470902482442,-1.274295424679438,0 36.81464546921673,-1.274211915099201,0 36.81456557078241,-1.274182868302217,0 36.81451835808505,-1.274108435896588,0 36.81454014856686,-1.27405760401901,0 36.8146872342995,-1.274083019967502,0 36.81470902480112,-1.274004956715136,0 36.81447114539127,-1.273946863113081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Nairobi Railway Museum</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDmX3VYS3m9jBkv_qCA8BZd950i-o2oDiXDvr0zNjH1pUsaVG">The Nairobi Railway Museum was established in 1971 to preserve and display the relics and records of the railways of East Africa and is located adjacent to Nairobi railway station.The museum’s collection of locomotives is increasing with the addition of some early diesel locomotives and, examples of passenger coaches]]></description>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82184248728251,-1.293935112331822,0 36.82259635213737,-1.293820510652631,0 36.8229680911299,-1.293777246857029,0 36.82311245196718,-1.293750932826277,0 36.82333197878743,-1.29364291626471,0 36.82237242578843,-1.293076121675242,0 36.82228675244161,-1.293061041588014,0 36.82217400222717,-1.293113484023379,0 36.82209248522876,-1.293233444559803,0 36.82184248728251,-1.293935112331822,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ngong hills</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsMiqiqnOVkvZ3o5L0QWmB3G0pgNc8Ajmmylu194yjhnq5I1ENg">The Ngong Hills is about 22km southwest of the city, makes it a very popular weekend destination for visitors. The hike up Ngong Hills starts from Ngong town at the northern foot of the hills 1961m above sea level, and traverses the whole range to the southern end at Kona Baridi. This takes about 4 to 5 hour to complete, depending on fitness levels]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.66558175288795,-1.3379890736821,0 36.6603810683426,-1.339801842487111,0 36.66018135036191,-1.340001491671486,0 36.65538875790524,-1.340799958288456,0 36.65099545344985,-1.343195490436732,0 36.65019671137392,-1.343395087594014,0 36.64580364515685,-1.34479228097032,0 36.64520461560282,-1.344792237081241,0 36.64041228406062,-1.345989665714088,0 36.63981324078192,-1.346189247170976,0 36.63462155884297,-1.3477858048773,0 36.63382284262992,-1.347985351921871,0 36.62942991514021,-1.348783377566507,0 36.62883087032463,-1.348982937073214,0 36.6238388660837,-1.349581189455964,0 36.62363902596374,-1.352176363793573,0 36.62363901317505,-1.352375993001027,0 36.62383833680487,-1.357566293112103,0 36.62423766385876,-1.357965588387664,0 36.6262340709031,-1.362557091680283,0 36.62643364708174,-1.363754821618997,0 36.62783102351932,-1.367747295076433,0 36.62803066187685,-1.368146545330903,0 36.63002715290009,-1.370741732240008,0 36.63182369306233,-1.376131454426675,0 36.63202328843937,-1.376929923491256,0 36.63521767904496,-1.380523245858135,0 36.63761329339076,-1.385114574403265,0 36.63781285171155,-1.386312281581325,0 36.63801184318477,-1.393498534556947,0 36.63781205433772,-1.394696244763502,0 36.6376121292978,-1.397291328561262,0 36.63721275841422,-1.397490918437824,0 36.63601415506956,-1.402880784798176,0 36.63441582866845,-1.41106585480482,0 36.6360127525415,-1.41625691450024,0 36.63621227046403,-1.41785420006013,0 36.63681085690244,-1.422446562513157,0 36.63740977299255,-1.424043999935205,0 36.63800863727647,-1.426240512027404,0 36.63840789330611,-1.42763832814432,0 36.63920651677029,-1.429435591692983,0 36.64001422461142,-1.434066580937602,0 36.64161147432517,-1.436062940235087,0 36.64500565581426,-1.44005572390371,0 36.6450055821556,-1.440654621141038,0 36.64820013552065,-1.444248232537907,0 36.6489988586178,-1.444447917282226,0 36.65379126790018,-1.444847504815809,0 36.65518905927314,-1.444847605731201,0 36.65618748075677,-1.444847680612522,0 36.66557282900932,-1.441853968419724,0 36.67435910860456,-1.438860404778179,0 36.676955095294,-1.437662916091675,0 36.68674013509914,-1.435268516506217,0 36.68693983481756,-1.435268541254294,0 36.69013512434051,-1.431675593042272,0 36.69053454535921,-1.430877125253479,0 36.69512801264357,-1.423291799916219,0 36.69532773182728,-1.423092193308323,0 36.70471462457946,-1.420897161334672,0 36.70591301924718,-1.420697638214684,0 36.70711144225697,-1.420298479029778,0 36.71210525837854,-1.414709071600042,0 36.71230504169668,-1.414110171845945,0 36.71430304930171,-1.407721817715347,0 36.71710002420104,-1.404327940358542,0 36.71749961748601,-1.40372900619656,0 36.72449236800217,-1.399336585537625,0 36.73128610257074,-1.396341329305293,0 36.731885550885,-1.396341290372112,0 36.73768081368815,-1.395142814632469,0 36.7394794272489,-1.395142656612932,0 36.74267740355479,-1.393744561617604,0 36.73468440926744,-1.389552123960626,0 36.73308600611287,-1.388553916072163,0 36.72449490455414,-1.385559787520177,0 36.7234960388314,-1.385160558171082,0 36.72269701740656,-1.3845616323715,0 36.71590518697094,-1.381966665718506,0 36.71570542522847,-1.381966686942356,0 36.71370783851177,-1.381767224589956,0 36.71131142068829,-1.378772437636805,0 36.7105125867187,-1.377973842907999,0 36.70791648344466,-1.375178701685851,0 36.70791653043226,-1.374979024593814,0 36.70572023637985,-1.371185387636343,0 36.70532079621459,-1.370985754760008,0 36.70112661060215,-1.369588443401288,0 36.70052745572046,-1.369388825325755,0 36.69912942289422,-1.368989600920544,0 36.69473623996106,-1.36539568300994,0 36.69433697089275,-1.36459696261687,0 36.69274041833857,-1.359205296414792,0 36.69254078474024,-1.358805910570235,0 36.68974520076177,-1.356409675419336,0 36.68954561342377,-1.355810555358106,0 36.68634784197967,-1.35256516924952,0 36.68435098044355,-1.351766575740826,0 36.68235410855704,-1.351167623306815,0 36.68135628805124,-1.346974730428679,0 36.67776207433447,-1.344978069978053,0 36.67476718905758,-1.341383928021099,0 36.67376888825741,-1.340185839589181,0 36.6701745605692,-1.33898767459705,0 36.66937581386495,-1.338787968979233,0 36.66558175288795,-1.3379890736821,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Oloolua Nature Trail(Forest)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[The National Museums of Kenya established the 5km long Oloolua Nature Trail in part of the Oloolua forest, in Karen, providing a quiet peaceful place for city residents looking to escape the city hustle and bustle. Its waterfalls and numerous beautiful sceneries make it an awesome place for camping or hiking. The trail is open every day from 9am to 6pm.<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyaKCw7pYMSzQgb3JN9pL0ohooG1lM8RxpljA2Dw_mAkJk7DM">]]></description>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.70051300939871,-1.368711637709663,0 36.70060587889667,-1.368850904843627,0 36.70083804964532,-1.368943752836533,0 36.70102378602839,-1.369036599694173,0 36.70130238943936,-1.369036604241457,0 36.70153455846232,-1.369036607806397,0 36.70172029289028,-1.368897345625903,0 36.70181315999153,-1.368804503263289,0 36.7019988946782,-1.368711662065624,0 36.70227749707234,-1.368618821853276,0 36.70246323189186,-1.368572401683896,0 36.70274183411911,-1.368525983348073,0 36.70292756913973,-1.368525985269012,0 36.70315973758083,-1.368525987476901,0 36.70343833971594,-1.368618833679128,0 36.70367050786687,-1.368711679142081,0 36.70390267597703,-1.368758101996529,0 36.70408841025636,-1.368850946638705,0 36.70432057799935,-1.368943791259493,0 36.70459917899093,-1.369083057894772,0 36.70473847948659,-1.369129479486481,0 36.70487777956306,-1.369268745145736,0 36.70510994658733,-1.369408009730658,0 36.70524924621144,-1.369593695795987,0 36.70538854541699,-1.369825802823961,0 36.70548141182622,-1.369918645011429,0 36.70552784379027,-1.370197172458575,0 36.70552784248523,-1.370429278137062,0 36.70552784119964,-1.370661383358627,0 36.70552784043768,-1.37080064627832,0 36.70548140575109,-1.371032750288015,0 36.70534210438717,-1.371311275022441,0 36.70515637031823,-1.371496957661852,0 36.70510993543603,-1.371868322645236,0 36.70506350180497,-1.37196116366885,0 36.70501706720007,-1.372286106544442,0 36.70501706645121,-1.372471788219224,0 36.70497063234895,-1.37270388990679,0 36.70492419846523,-1.372889571000291,0 36.70483133127111,-1.373121671989292,0 36.70473846364111,-1.373493032621965,0 36.70464559658872,-1.373725132849483,0 36.70464559564359,-1.374003653143927,0 36.70464559532888,-1.3740964929248,0 36.70464559438562,-1.37437501277919,0 36.7045527277478,-1.374514272282694,0 36.70441342760494,-1.374792790964557,0 36.70418126209564,-1.374839209959865,0 36.70380979756962,-1.374792788497585,0 36.7036704983538,-1.374746367957365,0 36.7035776322972,-1.374699947606264,0 36.70329903392115,-1.374560686644854,0 36.70302043516876,-1.374560685059876,0 36.70278826933746,-1.374560683641956,0 36.70241680391961,-1.374560681189668,0 36.70213820430484,-1.37465351888833,0 36.70172030464712,-1.374839195554161,0 36.70162743800448,-1.374885614777149,0 36.70148813786268,-1.37497845356268,0 36.7013952709504,-1.375164132540836,0 36.70139527038685,-1.375489071569,0 36.70144170351479,-1.375628331505983,0 36.7015810029956,-1.37576759189915,0 36.70167386928011,-1.375953271688082,0 36.701952468369,-1.376092532838326,0 36.7020453345351,-1.376185372829847,0 36.70218463337523,-1.376463892049862,0 36.70232393220721,-1.376649571739703,0 36.70246323115092,-1.376835251204992,0 36.70260253035838,-1.376928091236474,0 36.70283469542026,-1.377113771030791,0 36.70292756112932,-1.377253030433834,0 36.70306685973988,-1.377438709673401,0 36.70315972503544,-1.377670808296358,0 36.70325259049002,-1.377856487248105,0 36.70343832220382,-1.37804216653708,0 36.70353118744503,-1.378274265123533,0 36.70367048558154,-1.378552783534567,0 36.70380978419638,-1.378738462615668,0 36.7039490830926,-1.378831302457609,0 36.70422768083127,-1.379063401741547,0 36.70436697978761,-1.379156241615127,0 36.70459914499988,-1.379249081693167,0 36.70487774335699,-1.37934192207587,0 36.70506347557493,-1.379434762175038,0 36.70524920794835,-1.379481182562893,0 36.70543494031969,-1.379527602848278,0 36.70562067284164,-1.379574023274929,0 36.70580640532911,-1.379620443723955,0 36.70603857107799,-1.379713284153831,0 36.70627073693757,-1.379759704732106,0 36.70654933630588,-1.37985254547209,0 36.7065957694414,-1.379852545666034,0 36.70687436909599,-1.379945386508919,0 36.70706010222037,-1.380084646888367,0 36.70729226893558,-1.380131067846103,0 36.70743156894487,-1.380223908056622,0 36.70766373601432,-1.380270329133601,0 36.70780303661483,-1.380456009604447,0 36.7080816378911,-1.380595271082977,0 36.70822093834637,-1.380595271900339,0 36.70845310621328,-1.380595273293161,0 36.70873170791221,-1.380548854984517,0 36.70896387577655,-1.380502436402416,0 36.70919604379895,-1.38031675770964,0 36.70942821204826,-1.380131079242136,0 36.70961394693283,-1.380038240279241,0 36.70979968237646,-1.379945401289549,0 36.71003185141168,-1.379898982576726,0 36.7102175872808,-1.379806143521463,0 36.71044975671619,-1.379713304801122,0 36.71072836127486,-1.379666886244825,0 36.71091409738399,-1.37952762693738,0 36.71109983412269,-1.379388367675255,0 36.71123913649878,-1.379295528112941,0 36.71133200467245,-1.379109848178197,0 36.71142506894879,-1.378653799196303,0 36.71151793902296,-1.378607377673783,0 36.71170367926549,-1.378514535729381,0 36.71188941886911,-1.37842169395911,0 36.71202872225178,-1.378282427249842,0 36.7122608944285,-1.378096739647532,0 36.71244663190578,-1.377911050842845,0 36.71258593468208,-1.377771784980612,0 36.7127716739716,-1.377632520014091,0 36.71291097356974,-1.377400407439394,0 36.71300383587972,-1.377121869902524,0 36.71314313559956,-1.376889758543729,0 36.71323600130249,-1.376704068803166,0 36.71337530278372,-1.376518380974545,0 36.71351460435672,-1.376332693443726,0 36.71365390764524,-1.376193428682784,0 36.71393251696046,-1.375961323948136,0 36.71402538716498,-1.375914904705239,0 36.71430399224123,-1.375543531572262,0 36.71448972581212,-1.375218578438141,0 36.71472189980587,-1.374986473587459,0 36.71486120106531,-1.374754365991805,0 36.71504694270772,-1.37461510410156,0 36.71523268229747,-1.374429420344919,0 36.71546485941188,-1.374243738679823,0 36.71569703705747,-1.374058056622992,0 36.71583634676289,-1.374011638700858,0 36.71602208940715,-1.373872377572449,0 36.71616139562897,-1.373733115006642,0 36.71616138932275,-1.373547425921755,0 36.71616138015449,-1.373268892829847,0 36.71606849584822,-1.372943936242053,0 36.71597561989251,-1.372851089766804,0 36.71578986704401,-1.372665397291416,0 36.71555768000148,-1.372526126030639,0 36.71532549512473,-1.372433276952046,0 36.71513974899422,-1.372386850906198,0 36.7148611267247,-1.372201158304779,0 36.71467538185985,-1.372154732755587,0 36.71448963563461,-1.372061885946503,0 36.71444319299832,-1.371736936077254,0 36.71448962560971,-1.371597673146361,0 36.71467536466346,-1.371365570416457,0 36.71472179840674,-1.371272728824077,0 36.71486110336031,-1.371133467711317,0 36.71504684416065,-1.370947786194211,0 36.71513971121318,-1.370669261236931,0 36.71513970703624,-1.370437155646798,0 36.71513970231574,-1.370158629270652,0 36.71513969721086,-1.36983368249947,0 36.71513969515572,-1.369694419624987,0 36.71509325608851,-1.369508735368446,0 36.71500038297187,-1.369369471910625,0 36.71486107300703,-1.369230207910375,0 36.71472176418293,-1.369090944141757,0 36.71453602039077,-1.368951680180416,0 36.71453601803987,-1.368719576913066,0 36.7143967090003,-1.368533893187184,0 36.71416453090022,-1.368441050431934,0 36.71388591924169,-1.368441048529987,0 36.71374661303442,-1.368348206563262,0 36.7136537409817,-1.36811610368468,0 36.71365373933701,-1.367837581056296,0 36.71365373796579,-1.367559058556077,0 36.7135608670856,-1.367419797058969,0 36.71351443235704,-1.367419796915291,0 36.71365373720358,-1.367373376927865,0 36.71393234828007,-1.36728053688007,0 36.71402521768147,-1.367141275765135,0 36.71411808800319,-1.367002014570423,0 36.71430382939496,-1.366862753382439,0 36.71444313594793,-1.367002015057815,0 36.71458244282312,-1.367141276891243,0 36.7147681859524,-1.36723411840066,0 36.71509323606577,-1.367326960484475,0 36.71518610797995,-1.367326960732305,0 36.7153718523626,-1.367373381889423,0 36.71551116088228,-1.367466223734281,0 36.71551116261598,-1.367744748207066,0 36.7156040353752,-1.367791169412802,0 36.71583621691607,-1.367837591335135,0 36.71606839770263,-1.36779117157367,0 36.71625414369973,-1.36774475151706,0 36.7164398901599,-1.367698331388969,0 36.71671851048987,-1.36769833258902,0 36.71685782035697,-1.367605491211725,0 36.71699713052022,-1.367512649602944,0 36.71709000357507,-1.367326965690963,0 36.71760081315936,-1.367187703449152,0 36.71769368722443,-1.36714128240082,0 36.71787943731067,-1.367048440234135,0 36.71811162490236,-1.367002019163254,0 36.71825093807522,-1.366955597925016,0 36.71843668960693,-1.366816333912506,0 36.7185760031462,-1.366677069672099,0 36.71862244090096,-1.366398541180068,0 36.7186224405563,-1.366212855547244,0 36.71857600177778,-1.365980748709484,0 36.71839025090643,-1.365748642833651,0 36.71815806094227,-1.365562958957134,0 36.71806518635875,-1.365423695709136,0 36.71797231083488,-1.365191589956592,0 36.7177865607023,-1.365052327858047,0 36.7177401255238,-1.364820222045724,0 36.71764725084208,-1.364634537928691,0 36.71741506613336,-1.364448855685251,0 36.71732219220633,-1.364356014450276,0 36.71709000764407,-1.364216753690254,0 36.71699713512778,-1.364031070118172,0 36.71685782725074,-1.363752545108581,0 36.71667208234093,-1.363566863073404,0 36.71657921087031,-1.363381179732747,0 36.71643990327318,-1.363195497423992,0 36.7162541596708,-1.36296339454109,0 36.71611485158127,-1.362870554553263,0 36.71588267155185,-1.362731295305345,0 36.71574336560293,-1.362545613085791,0 36.71555762335319,-1.362359931760139,0 36.71541831815853,-1.362174249614296,0 36.71513970469186,-1.362034991356875,0 36.71504683428307,-1.361942151257896,0 36.71495396563096,-1.361756468284376,0 36.7149539690139,-1.361570783347721,0 36.71495397343806,-1.361338676901413,0 36.71490754440894,-1.361013728390171,0 36.71490754733903,-1.360874464115021,0 36.71476824492387,-1.360642360528136,0 36.71467537519008,-1.360549519745269,0 36.71448963190763,-1.360549524133315,0 36.71430388979574,-1.360549528428213,0 36.71397884107064,-1.360549535720202,0 36.71388597011028,-1.360549537751241,0 36.71365379444763,-1.360503121392475,0 36.71351448984014,-1.360456703003897,0 36.71346805974937,-1.360224597154987,0 36.71346806271477,-1.360085332874396,0 36.71323589087884,-1.359899652171017,0 36.71309658799694,-1.359760390785886,0 36.71286441566353,-1.359667553371143,0 36.71272511120112,-1.359621134888565,0 36.71249293980306,-1.359481875326647,0 36.71235363652628,-1.359435456749546,0 36.71216790094861,-1.359296196034474,0 36.71198216288705,-1.359249778313411,0 36.71184286207251,-1.359110516474427,0 36.7116571244319,-1.359064098626512,0 36.7111927854188,-1.358785578063769,0 36.7108213158028,-1.358553477220757,0 36.71034872241739,-1.358591282980176,0 36.71020937174659,-1.35849842536355,0 36.71007001981462,-1.3583591425967,0 36.70979132384899,-1.358219854898889,0 36.70955908078685,-1.358173419904198,0 36.70937328564763,-1.358080561984221,0 36.70914104696045,-1.358034127619214,0 36.70881591312968,-1.357941265062553,0 36.70872301667295,-1.357848411917245,0 36.70844433375576,-1.357755552177482,0 36.7082585448736,-1.35766269630814,0 36.70802630914308,-1.357523414786536,0 36.70788696619534,-1.357337712898643,0 36.70765473609233,-1.35724485696256,0 36.70746895168983,-1.357152002883287,0 36.70723672163317,-1.357012723770245,0 36.70709738369322,-1.35687344788174,0 36.7070044906182,-1.356687749989749,0 36.70686515396839,-1.356548474920242,0 36.70672581548268,-1.356269929325593,0 36.70667936907429,-1.356177080906626,0 36.70654003219097,-1.355898536212949,0 36.70644714332599,-1.355805687417678,0 36.70635425100304,-1.355527144800311,0 36.70612203047511,-1.355295024151225,0 36.70598269769573,-1.35501648232301,0 36.70588980831948,-1.35473794162574,0 36.70584336549272,-1.354598671491613,0 36.70565759165718,-1.35432013092255,0 36.70556470452248,-1.354227284077292,0 36.70533249096602,-1.353995167485093,0 36.7051931632171,-1.353902320892095,0 36.70496095035414,-1.353763051288049,0 36.70477518302338,-1.35362378224101,0 36.70458941457913,-1.353577359071192,0 36.70435720491351,-1.353484513240201,0 36.70417143975146,-1.353438090369719,0 36.70398567475785,-1.353252399894079,0 36.70384635204379,-1.35311313231974,0 36.70366058968708,-1.352834597633795,0 36.70361414967731,-1.352695330346441,0 36.70342838840841,-1.352463218918727,0 36.70324262718636,-1.352416797459458,0 36.703010423564,-1.352416798657129,0 36.70282466174783,-1.352416799578586,0 36.70254602106632,-1.352416800899644,0 36.70226738188701,-1.35241680214735,0 36.70222094165319,-1.352416802348172,0 36.70194230419444,-1.352416803510303,0 36.70175654617941,-1.35241680424431,0 36.70161722847196,-1.352416804773421,0 36.70138503359392,-1.352416805614523,0 36.70115283814143,-1.352416806404695,0 36.70087420609398,-1.352416807285665,0 36.70068845163274,-1.352416807832234,0 36.70036338527855,-1.352370387134296,0 36.70022406942861,-1.352370387516091,0 36.69989900499596,-1.352370388334267,0 36.69962037788868,-1.352323967563205,0 36.69948106526807,-1.352323967879512,0 36.69924887937654,-1.352277547059662,0 36.69906312984479,-1.352277547453733,0 36.6987845073058,-1.35227754798022,0 36.69855232248742,-1.352277548359727,0 36.69836657489461,-1.352277548624564,0 36.69804151896248,-1.352277549005104,0 36.69790220824731,-1.352323970133998,0 36.69762358920512,-1.352416812144657,0 36.69753071598966,-1.352463233045413,0 36.69729853308513,-1.352648916231556,0 36.69720566109572,-1.352695336926755,0 36.6970663510483,-1.352834599006181,0 36.69692704164655,-1.353020281574471,0 36.69678773305876,-1.353159543218816,0 36.69664842400269,-1.353391646047961,0 36.69646268004146,-1.35353090699557,0 36.69627693768035,-1.353623747111262,0 36.69604476026741,-1.353670166216616,0 36.69585901841837,-1.353716585524554,0 36.6955339721134,-1.353716583320352,0 36.69525536237664,-1.353716581394102,0 36.69497675348144,-1.353716579433758,0 36.69479101488462,-1.353623737442335,0 36.69455884162342,-1.353623735836761,0 36.69437310386768,-1.353623734533857,0 36.69414093195361,-1.353577312641055,0 36.69386232541391,-1.353577310665632,0 36.69363015423111,-1.353577308990193,0 36.69339798430273,-1.353577307288165,0 36.69311937961463,-1.353577305210615,0 36.69293364428965,-1.353577303804312,0 36.69260860717635,-1.353577301302318,0 36.69233000464502,-1.353577299116264,0 36.69205140269023,-1.353577296891912,0 36.69181923530729,-1.353530875076651,0 36.6915406347343,-1.353530872810852,0 36.69130846815784,-1.353484450980769,0 36.6910763023784,-1.353391609335338,0 36.69079770317879,-1.353345187171471,0 36.69065840464074,-1.353252346365113,0 36.69042623931558,-1.353205924617283,0 36.69019407476112,-1.353113083106895,0 36.68991547690729,-1.353066660989116,0 36.68959044777083,-1.352927398946593,0 36.68949758275021,-1.35283455865535,0 36.68926541924098,-1.352741717215763,0 36.68912612129296,-1.352695296271424,0 36.68889395864627,-1.352556034999441,0 36.68861536195871,-1.352556032611859,0 36.6884760657118,-1.352370352488945,0 36.68833676920556,-1.352231092110818,0 36.68824390591892,-1.352045412215368,0 36.68805817223697,-1.352277509297574,0 36.68796530319961,-1.352602446499198,0 36.68796530114116,-1.352788125318749,0 36.68796529910946,-1.352973804098109,0 36.68796529810371,-1.353066643444834,0 36.6880581619786,-1.353205903387277,0 36.68824389150505,-1.353345164237845,0 36.68833675549276,-1.353484424196415,0 36.68815102156746,-1.353762940429117,0 36.68824388485931,-1.353995039762323,0 36.68833674760177,-1.354273558831427,0 36.68856890974937,-1.354459240067049,0 36.68875463965782,-1.354598501195341,0 36.68903323625462,-1.35464492395285,0 36.68921896794381,-1.354644925960665,0 36.68945113220434,-1.35469134824902,0 36.68977616249171,-1.354737771517369,0 36.68996189347995,-1.354877032952546,0 36.69024049143816,-1.354969875750531,0 36.69042622331038,-1.355062717467175,0 36.69065838871934,-1.35515555991988,0 36.69084412110491,-1.3552484019225,0 36.69107628744123,-1.355294824618582,0 36.69130845412492,-1.355341247249857,0 36.69144775380563,-1.355434088920587,0 36.69172635450179,-1.355526932417887,0 36.69186565446873,-1.35566619421707,0 36.69209782217011,-1.355805457512818,0 36.69223712300574,-1.355851879374647,0 36.6923764239759,-1.356037561857109,0 36.69256215851939,-1.356176825042712,0 36.69270146044268,-1.356408927980822,0 36.69284076201052,-1.356594611211115,0 36.6929800639042,-1.356780294706002,0 36.69316580067984,-1.356873138252069,0 36.69335153696124,-1.356873141374151,0 36.6936301423932,-1.35691956655248,0 36.69381588049104,-1.357058831227058,0 36.69400161933609,-1.357290937281116,0 36.69409448868286,-1.357523041798554,0 36.69428022816028,-1.357662307448331,0 36.69441953264391,-1.357755151696107,0 36.69460527328563,-1.357940838637501,0 36.69479101307898,-1.358033684310367,0 36.69493031788855,-1.358033687387266,0 36.69520892965295,-1.35812653545868,0 36.69544110620149,-1.358172961777243,0 36.69562684753293,-1.358219387152471,0 36.69568816099472,-1.358591130365163,0 36.69573459555475,-1.358591130394455,0 36.695920333922,-1.358591130382546,0 36.69615250683776,-1.358591130077226,0 36.69624537230853,-1.358823255105863,0 36.6962453700918,-1.35896252963078,0 36.6962453664253,-1.359194654428043,0 36.69624536351734,-1.359380353257044,0 36.69605962248384,-1.359612475800807,0 36.69601318614382,-1.359751749558779,0 36.6958738794422,-1.360030295147169,0 36.69587387632955,-1.360262415078981,0 36.69587387385911,-1.360448110837685,0 36.69596674028198,-1.360587381883555,0 36.69615247485316,-1.36072665354457,0 36.69624534174198,-1.360819500798118,0 36.6961060368228,-1.361005195202842,0 36.69596673341121,-1.361098042155934,0 36.69573456204167,-1.36119088777772,0 36.69559525951046,-1.361237311349065,0 36.69536308853315,-1.361330157304447,0 36.69522378573943,-1.36142300328265,0 36.69494518125013,-1.361515848303907,0 36.69480587834122,-1.361655116371891,0 36.69452727398198,-1.361794384032714,0 36.69443440496604,-1.361980075081473,0 36.69415580144417,-1.362072918370981,0 36.69392363184015,-1.362165761689823,0 36.69369146264694,-1.362212181432658,0 36.69345929353644,-1.362212178641169,0 36.69327355817926,-1.362212176230289,0 36.69318069094209,-1.362026483664268,0 36.69304138956589,-1.361887213387987,0 36.6928556538509,-1.361887210583777,0 36.69262348413349,-1.361887206850281,0 36.69215914459569,-1.361933621122545,0 36.69192697438206,-1.361887194128177,0 36.69169480442306,-1.361980035364089,0 36.69136976585924,-1.361980028326568,0 36.69109116095337,-1.361980021901811,0 36.69090542399735,-1.36193359390915,0 36.69076612081209,-1.361840744279702,0 36.69058038227851,-1.361655046784783,0 36.69048751180756,-1.361469351124278,0 36.69039464193523,-1.361330078848088,0 36.6902553397738,-1.361469344645803,0 36.69025534203621,-1.361701461608147,0 36.6903482122131,-1.361840733238182,0 36.69044108143853,-1.361933581960629,0 36.69058038562781,-1.362072855193624,0 36.69058038702927,-1.362258546890759,0 36.6905339541087,-1.362444236008806,0 36.69034821841166,-1.36258349988878,0 36.69016248193378,-1.362629917168644,0 36.68997674533674,-1.362676335266888,0 36.68988387826796,-1.362862023226756,0 36.68988387988893,-1.363047713370808,0 36.6898838822023,-1.363326247844676,0 36.68997675283472,-1.363604782916601,0 36.68997675414915,-1.36379047148607,0 36.69011605745842,-1.363976163182149,0 36.69034822832965,-1.364115435147485,0 36.69034822926948,-1.364301122607084,0 36.69016249442933,-1.364486805371688,0 36.68997675852875,-1.364486800895887,0 36.68974458829571,-1.364486795121926,0 36.68946598353715,-1.364486787930329,0 36.68928024690503,-1.364486782976637,0 36.68904807453792,-1.364347510476563,0 36.68895520408553,-1.364161819977807,0 36.68886233331806,-1.363929707382086,0 36.68876946185446,-1.363697593124988,0 36.68863015693736,-1.363558322380577,0 36.68853728542491,-1.363372629841637,0 36.68839797992346,-1.363233358285293,0 36.68816580772261,-1.363326195516831,0 36.68793363524043,-1.363419031568667,0 36.68784076747593,-1.363558296205937,0 36.68765503129338,-1.363743979306299,0 36.68751572886335,-1.363883240936483,0 36.68737642689417,-1.364115347833392,0 36.68723712492919,-1.364301031665144,0 36.6870978228516,-1.364486715224592,0 36.68691208531362,-1.364625974378673,0 36.68672634678277,-1.364765233373479,0 36.68663347969078,-1.364997340370674,0 36.68654061307561,-1.365275867828204,0 36.68640131088318,-1.365507971893347,0 36.68635487893201,-1.365740078788635,0 36.68630844659188,-1.366018606857822,0 36.6863084491134,-1.366250713932127,0 36.68630845146156,-1.366482821070969,0 36.68630845321526,-1.366668506490183,0 36.68630845563778,-1.366947034150088,0 36.68640132758268,-1.367179142833609,0 36.68644776397527,-1.36731840704447,0 36.68658706995482,-1.36755051619031,0 36.68667994053007,-1.367689781644053,0 36.6868192453549,-1.367829048090738,0 36.68695855006693,-1.36801473508875,0 36.68714428855418,-1.368154002061128,0 36.68728359331017,-1.368339688306554,0 36.68737646212877,-1.368571793274668,0 36.68742289733537,-1.368803897300615,0 36.68746933156128,-1.36898958048605,0 36.68756220047831,-1.369175264420069,0 36.68774793803067,-1.369221688657295,0 36.68798010924949,-1.369175272862709,0 36.68816584548121,-1.36912885610594,0 36.68844445022788,-1.368943179900441,0 36.68858375221085,-1.368850341774541,0 36.68886235616838,-1.368711085889797,0 36.68904809177471,-1.368571828157349,0 36.68918739324727,-1.368478989930756,0 36.68932669499984,-1.368386152155594,0 36.68951243016329,-1.368154053298716,0 36.68960529747729,-1.368061214050821,0 36.68965173131871,-1.36792195335039,0 36.68983746616505,-1.367829115771988,0 36.69006963451425,-1.367921961117309,0 36.69020893549608,-1.368061225051346,0 36.69039466967366,-1.368107648707212,0 36.69062683706155,-1.368246913795252,0 36.6908125706729,-1.368339757494021,0 36.69104473768296,-1.368386181411179,0 36.69127690429334,-1.368479024973731,0 36.69155550345336,-1.368618289687205,0 36.69164836964376,-1.368757551592797,0 36.69188053512973,-1.368896815160297,0 36.69206626768581,-1.368989657773742,0 36.69220556664969,-1.369082499692452,0 36.69239129894753,-1.36917534205058,0 36.69253059720804,-1.36936102359555,0 36.69266989526845,-1.369593125150065,0 36.69271632742694,-1.369732385551773,0 36.6927627594651,-1.369918065554335,0 36.69280919116836,-1.370150165552106,0 36.69280918998091,-1.370335845041713,0 36.69276275502089,-1.370614363386082,0 36.69276275409104,-1.370753622832071,0 36.69271631969721,-1.370939301448743,0 36.69266988547284,-1.371124979995834,0 36.69257701808066,-1.371310658159389,0 36.69257701675251,-1.371496337033898,0 36.69266988079171,-1.371774856152288,0 36.69280917962879,-1.371821277127365,0 36.69313420998516,-1.37191411933673,0 36.69341280798555,-1.371914121713666,0 36.69359853986179,-1.37191412326353,0 36.69383070405083,-1.372006964462979,0 36.69397000154892,-1.372192644207503,0 36.69420216597642,-1.372239065689887,0 36.69443433074479,-1.372239067467896,0 36.69466649585187,-1.372192649544638,0 36.69494509391689,-1.372146231917062,0 36.69513082609109,-1.372099813634714,0 36.6953629919322,-1.371960556283254,0 36.69554872456118,-1.371867718230291,0 36.69573445713598,-1.371774880064761,0 36.69587375652171,-1.371728461256382,0 36.6961523544928,-1.371728462988969,0 36.6964773868005,-1.371589205864019,0 36.69652382029444,-1.371542786392904,0 36.69670955322789,-1.371449947927522,0 36.69689528699973,-1.371264269965675,0 36.69694172093585,-1.371171430637426,0 36.69712745451001,-1.371032172248873,0 36.69740605453777,-1.370892913989104,0 36.69745248860119,-1.370800074613213,0 36.69763822258165,-1.370660815721549,0 36.69782395608077,-1.370614396464842,0 36.69805612290352,-1.37056797726901,0 36.698241856975,-1.370475137918758,0 36.69842759167575,-1.37033587872665,0 36.69852046054283,-1.370103778961219,0 36.69861332897174,-1.369964519024314,0 36.69879906520637,-1.369732419116063,0 36.69884549979944,-1.36963957893923,0 36.69907766794974,-1.369593158823369,0 36.6993098358643,-1.369593158726527,0 36.69954200462853,-1.369546738359951,0 36.69972773991707,-1.369500317922398,0 36.69995990930026,-1.369453897289655,0 36.70009921237548,-1.369314636196111,0 36.70009921419574,-1.369175375561098,0 36.70009921732226,-1.368943273910232,0 36.70009921990691,-1.3687575924105,0 36.70023852209758,-1.368711171451875,0 36.70033138877798,-1.368804011896297,0 36.70056355866463,-1.36880401088314,0 36.69569692325428,-1.371914138852987,0 36.70051300939871,-1.368711637709663,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Paradise Lost</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwT4JPhJCCySWiKnRsh7GSdjXIkicbJf7lO8j3a98ea_bKpn9H5g">Paradise lost is a beautiful oasis in the middle of a coffee farm close to Kiambu Town, about 10km from Nairobi. It is one of very few places close to Nairobi that offers a myriad of attractions and activities for the whole family. The most popular attraction at Paradise Lost is a labyrinth of caves eroded by the waters of the nearby Gichi River, with their entrance screened by a spectacular waterfall. These caves are estimated to be 2.5 million years old, based on obsidian rock artefacts from the late stone age that were discovered inside. Artificial lighting has been installed a few meters into the caves up to a large cavern within.]]></description>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82446664268425,-1.181027674030727,0 36.82409278925525,-1.181796344948443,0 36.82408798877372,-1.181834299716616,0 36.82408927819903,-1.181858649948536,0 36.82408158577131,-1.181882838148506,0 36.82408500640202,-1.181904688084604,0 36.82409933018514,-1.181922073406144,0 36.82501942691592,-1.181666150541076,0 36.82451209721734,-1.180961385475131,0 36.82446664268425,-1.181027674030727,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The Galton Fenzi Memorial Stone</name>
+			<visibility>0</visibility>
+			<description><![CDATA[The stone stands at the point which is considered as the center of Nairobi. It was built in honor of Lionel Douglas Galton-Fenzi was the first man in January 1926 to drive from Mombasa to Nairobi, co-driven by Capt. Gethin. The Galton-Fenzi memorial monument next to GPO is in his honour.The memorial is the beacon from which road distances from the city of Nairobi are measured.<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMTGBuXKJjxHkzhw6RhB5Tab0tbtFDK9Y4Sul-CTWh5DXjEkbow">]]></description>
+			<LookAt>
+				<longitude>36.81976055988601</longitude>
+				<latitude>-1.285489138562074</latitude>
+				<altitude>0</altitude>
+				<heading>-7.565066167865129e-005</heading>
+				<tilt>45.41131015245735</tilt>
+				<range>101.4362117835603</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81984543565149,-1.285569091582868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tom Mboya Statue</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4e5J6q3IoRoYTCFczet9jzg9Cc1RDhrbnHzXVPL_G9f6gYos">The Tom Mboya Monument is along the Moi Avenue in Nairobi, Kenya. It was erected in 2011 in honour of Tom Mboya, a Kenyan minister who was assassinated in 1969. The monument stands about twenty meters from where Mboya was murdered. The statue stands at not less than ten meters from ground level. Since its unveiling, the monument's location has proven to be one of the most popular rendezvous currently available within the Nairobi CBD.]]></description>
+			<LookAt>
+				<longitude>36.82524888013402</longitude>
+				<latitude>-1.284794157923249</latitude>
+				<altitude>0</altitude>
+				<heading>-31.48654557692532</heading>
+				<tilt>45.43552553405741</tilt>
+				<range>100.8770397378699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82537884246624,-1.284750514439438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uhuru Gardens</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6-T3aLt2MEIvbmUmuzH_3hWCxR5mdYs2mxzLlv9DdAoGKmY0">Uhuru gardens is the largest memorial park in Kenya. The inaugural ceremony for Kenya’s first president, President Jomo Kenyatta was conducted at this park on 12 December 1963 when Kenya gained its independence. A 24-metre high monument commemorating Kenyas’ struggle for independence is the centrepiece of attractions at Uhuru Gardens]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.80195478821513,-1.323300653243509,0 36.80175097185115,-1.323345936704094,0 36.79768611370707,-1.324070432599007,0 36.79748230841093,-1.32414966940056,0 36.79711998808898,-1.324296823188705,0 36.79663312032048,-1.32461376886792,0 36.79616889715346,-1.324908074699441,0 36.79611228477667,-1.325326895671522,0 36.79615757482182,-1.325779674791127,0 36.79611228409421,-1.326311689871631,0 36.79887498524229,-1.328813313255442,0 36.79921466191227,-1.328462405789354,0 36.79978079209417,-1.328088861872425,0 36.80091306379803,-1.327556848349039,0 36.8019434473002,-1.327036151900082,0 36.80307576452715,-1.326639967888278,0 36.80322296745366,-1.32648149173115,0 36.80218124794944,-1.323436486643617,0 36.80203404904508,-1.323334611238205,0 36.80195478821513,-1.323300653243509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Uhuru Park</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_g-B18y5zuJRTRuvQ89qRH4C4EkvklQ8gDOpmAjlGVh_gHOdZQ">
+
+
+This spacious city park is a popular meeting place with a variety of spaces for public gatherings. Uhuru Park is a 12.9 hectare recreational park adjacent to the central business district of Nairobi, Kenya. It was opened to the general public by the late Mzee Jomo Kenyatta on 23 May 1969. It contains an artificial lake, several national monuments, and an assembly ground which has become a popular skateboarding spot on weekends and also a location for local skateboarding competitions, catering to Nairobi's growing skate scene.
+
+Apart from skateboarding, the assembly ground is used for occasional political and religious gatherings. It is infamous as the site where protest against illegal land grabbing was violently broken up by the Moi regime.
+
+In 1989, Wangari Maathai and many of her followers held a protest at the park, attempting to stop the construction of the 60-storey Kenya Times Media Trust business complex. She was forced by the government to vacate her office and was vilified in parliament, but her protests and the government's response led foreign investors to cancel the project. Uhuru park now serves as a recreational site for relaxation and several recreational activities such as boat riding, horse riding etc.]]></description>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.82003719916757,-1.292572377307834,0 36.81999817639264,-1.292490017709799,0 36.81995048192663,-1.29238164993706,0 36.81991579518037,-1.292325298705828,0 36.81989411597516,-1.292277616978581,0 36.81992446665132,-1.292229935284793,0 36.81990712324766,-1.29216924948468,0 36.81985942908354,-1.292086890169903,0 36.81982474245423,-1.292004530919169,0 36.81978138418899,-1.291878824760533,0 36.81972935442666,-1.291800800282704,0 36.81967732472357,-1.291705437057841,0 36.81964263832949,-1.291575396259904,0 36.81958627288576,-1.291471363623688,0 36.81953857915935,-1.291410677967703,0 36.81949522118754,-1.291332653493548,0 36.81946920641339,-1.29127630242571,0 36.81943452008825,-1.291215616699589,0 36.81939549799028,-1.29115493091465,0 36.81933913269057,-1.291076906353103,0 36.81928710326834,-1.29096853874942,0 36.81925675278807,-1.290886179284386,0 36.81923073817441,-1.29077781140564,0 36.81918738031973,-1.290686782325508,0 36.81915269396893,-1.290626096189348,0 36.81911367187588,-1.29055674062505,0 36.81908765714493,-1.290487384868485,0 36.81905730544611,-1.290440786733861,0 36.81902695494306,-1.290371431729714,0 36.81898793286111,-1.290258729829981,0 36.81894457500549,-1.29019804417937,0 36.81890988871467,-1.290133023837501,0 36.81887520242133,-1.29006800342671,0 36.81882317297324,-1.289976974849066,0 36.81879715824545,-1.289903285007571,0 36.8187538003467,-1.289816591006637,0 36.81872778559974,-1.289760239881209,0 36.81871911401004,-1.289734231637848,0 36.81870177083486,-1.2896995539666,0 36.81868009186378,-1.289651872190878,0 36.818645405499,-1.289608525047546,0 36.81861939071283,-1.28957384731323,0 36.81859337591122,-1.28951749601459,0 36.81858458302099,-1.289454441397832,0 36.81856723987691,-1.289411094427706,0 36.81854122515379,-1.289337404590629,0 36.81852388200139,-1.289285388175749,0 36.81849786726507,-1.289237706436899,0 36.81846751672699,-1.28916835123068,0 36.8184198230062,-1.289098995868533,0 36.81838080084079,-1.289029640448443,0 36.81835478604196,-1.288964619737717,0 36.81832009961247,-1.288895264280586,0 36.81828541319334,-1.288843247557622,0 36.81824205511855,-1.288778226630813,0 36.81819869700874,-1.288704536066188,0 36.81817701787222,-1.288643849801674,0 36.81814233133883,-1.288591832829627,0 36.81809369246746,-1.288509347754084,0 36.81807201351211,-1.288470335468958,0 36.81805033457986,-1.288396645686176,0 36.81803299144269,-1.28835329878669,0 36.81800697673425,-1.288314286540127,0 36.81798096204396,-1.288257935560543,0 36.81795061157173,-1.288192915213204,0 36.81792026110963,-1.288136564258999,0 36.8178899106536,-1.288071543947285,0 36.8178638959823,-1.288010858327,0 36.8178508886561,-1.287958842083979,0 36.81781620242288,-1.287902491147479,0 36.81779018775254,-1.287850474898856,0 36.81775550152477,-1.28778111989172,0 36.81772081529384,-1.287690091439076,0 36.81769480060984,-1.287629405778232,0 36.81766011436613,-1.287551381324026,0 36.81761242073837,-1.287438679284878,0 36.81758640602752,-1.287377993554435,0 36.81754738394989,-1.287325977130408,0 36.81750402604309,-1.287260956611572,0 36.81746500389166,-1.287187266642516,0 36.81743031754077,-1.287139584862008,0 36.81743031754077,-1.287139584862008,0 36.81740430273955,-1.287078898894604,0 36.81736961630433,-1.286996539338435,0 36.81731325088794,-1.286948857368971,0 36.81726555702206,-1.2869011752831,0 36.81720051993477,-1.286862162623009,0 36.81714830943103,-1.286844824207977,0 36.81710928734336,-1.286827485369441,0 36.81704858616538,-1.286840489642311,0 36.81699655663909,-1.28684915903208,0 36.81694452711842,-1.286862163261763,0 36.81688382595269,-1.286914179886758,0 36.81676242378727,-1.286966196341225,0 36.81677109537682,-1.286953192250007,0 36.8167667595889,-1.286953192247786,0 36.8167667595889,-1.286953192247786,0 36.81668004377937,-1.287000873980718,0 36.81661934273494,-1.287026882184031,0 36.8165543059021,-1.28706589444132,0 36.81648493329654,-1.287096237337571,0 36.81641989646854,-1.28713091487887,0 36.81635052384947,-1.287161257638668,0 36.81628982281811,-1.287195935147545,0 36.81619877123264,-1.287243616632254,0 36.81613373436102,-1.28727829409334,0 36.81607736905519,-1.287312971565037,0 36.81600837870997,-1.287356318613707,0 36.81594334176,-1.287404000294457,0 36.81584795433832,-1.287447347184292,0 36.81576991017105,-1.287473355309748,0 36.81566151549774,-1.287516702158855,0 36.81557479978213,-1.28756004894798,0 36.81547074094434,-1.287607730402314,0 36.81541003996684,-1.287629403772309,0 36.81534933895374,-1.287681419946083,0 36.81527563061003,-1.287716097329698,0 36.81520192225869,-1.28773777065997,0 36.81513254965755,-1.287772448053324,0 36.81506751283076,-1.287798456072764,0 36.81500681177616,-1.287833133470559,0 36.81999343589395,-1.292629615290659,0 36.81982433628131,-1.292659957811995,0 36.81953816891087,-1.292711973475804,0 36.81936473508891,-1.292776993660907,0 36.81919130162215,-1.292829009624789,0 36.8189051372815,-1.292889694727928,0 36.81868834670141,-1.292941710634937,0 36.81845854901869,-1.292976387816321,0 36.81801196174205,-1.293084754946746,0 36.81785153716673,-1.293149775538666,0 36.81772579894408,-1.293175783856019,0 36.81761306806224,-1.293188788036596,0 36.81754369520263,-1.293197457543262,0 36.8173565202854,-1.293224794667738,0 36.81728714743636,-1.293272476267485,0 36.81715707327304,-1.293289814769165,0 36.81709152140864,-1.293312395169878,0 36.81697879056728,-1.293334068415581,0 36.81690074618862,-1.293338403020241,0 36.81682270181252,-1.293338402890826,0 36.81676200064155,-1.293329733392444,0 36.81669262790587,-1.29329072097141,0 36.81666227738761,-1.293212696358877,0 36.81663192686808,-1.293147675891481,0 36.81664493427576,-1.293112998326905,0 36.81480595305806,-1.287954661052519,0 36.81470189248122,-1.288019682483935,0 36.81459783234024,-1.288054360693613,0 36.81442439903854,-1.288136720869241,0 36.81426397364439,-1.288206076522182,0 36.81414257095633,-1.28824942375732,0 36.81383906469915,-1.288396803687512,0 36.8134228286216,-1.288591864375436,0 36.81324939700681,-1.288700231267693,0 36.81293722001681,-1.288869283356027,0 36.81272416991581,-1.2889429726605,0 36.81250738047032,-1.289047004608025,0 36.81240765724514,-1.289116359346538,0 36.81228191918853,-1.289203052792338,0 36.8121691885253,-1.2892594034841,0 36.81207813661469,-1.289346097084603,0 36.81211715830965,-1.289471803234128,0 36.81217785902834,-1.28958884007582,0 36.81228191777788,-1.289658195358184,0 36.81245534921565,-1.289718881446386,0 36.81262010913871,-1.289736220544223,0 36.81283689855455,-1.289744890489485,0 36.81304501647325,-1.289744891113152,0 36.81323579143278,-1.289779569391588,0 36.81337887276764,-1.289779569950095,0 36.8135219543545,-1.289792574678428,0 36.81367370778624,-1.28984025715471,0 36.81382979750567,-1.289926952294747,0 36.8139035066962,-1.289987638735712,0 36.81399022355148,-1.290048325458541,0 36.81410295577755,-1.290109012504252,0 36.81419871731185,-1.290160199620414,0 36.81430711199716,-1.290199212049314,0 36.81463229583226,-1.290316249204092,0 36.81476670510841,-1.290372600342459,0 36.814866428093,-1.290450624858637,0 36.81498349421383,-1.290567661606604,0 36.81506587409064,-1.290702037129879,0 36.81514391825377,-1.290840747399299,0 36.81522196257676,-1.291001131364587,0 36.81528266382734,-1.291087825538468,0 36.81536938001941,-1.291239540497413,0 36.81546476814333,-1.291408594748597,0 36.81555582049219,-1.291499624343184,0 36.81564253747586,-1.291655675098623,0 36.81567288857929,-1.291725031134744,0 36.81575442252844,-1.291881637648454,0 36.81585848177232,-1.292024682855221,0 36.81594519798108,-1.292180732307785,0 36.81600589956304,-1.292328112579805,0 36.81608828038638,-1.292471158520362,0 36.81615331805913,-1.292583861573513,0 36.81622702469596,-1.292670285627664,0 36.8162833905013,-1.292791657364231,0 36.8163007339599,-1.292921698542411,0 36.81634409235587,-1.293008392845097,0 36.81642213750664,-1.293064744442249,0 36.81650018258835,-1.293077748947499,0 36.81650018258835,-1.293077748947499,0 36.81659557128239,-1.293103757681684,0 36.82003719916757,-1.292572377307834,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Village Market</name>
+			<visibility>0</visibility>
+			<description><![CDATA[The Village Market is located in the Gigiri and is one of Kenya’s largest shopping, recreation and entertainment complex housing over 150 stores outlets. There are several outlets that specialize in African artifacts and other Kenyan crafts. Moreover, every Friday, the shopping center hosts the Maasai Market; a cultural bazaar that brings together around 400 artisans and craftsmen who specialize in an array of ethnic relics.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnq-J-vhIwcB9RgpYjndDhq28-Y1a5KyOizAD-M66DZGKOKryyXA">]]></description>
+			<styleUrl>#m_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.80362084245161,-1.231276764035174,0 36.80428404682589,-1.231570833827785,0 36.80448478760111,-1.231102462530888,0 36.80549151697122,-1.228653281915295,0 36.80555793441748,-1.228475228030733,0 36.80579048950652,-1.227982091890557,0 36.80615552465673,-1.227903303627244,0 36.80602750618239,-1.227451029743404,0 36.80530976424544,-1.227156175403076,0 36.80511882172241,-1.227176946437377,0 36.80501917984492,-1.227716642634396,0 36.80486156091465,-1.228237173874221,0 36.80365809895249,-1.231185603488972,0 36.80362084245161,-1.231276764035174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Nairobi National Park</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1TTcIMO002fO3mYYPoQ9NjfRANg_IkgeveqCuzCx6Nm3jrtQ">Nairobi National Park is a national park in Kenya. Established in 1946, the national park was Kenya's first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya's capital city,  with an electric fence separating the park's wildlife from the metropolis. Nairobi's skyscrapers can be seen from the park. The proximity of urban and natural environments has caused conflicts between the animals and local people and threatens animals' migration routes.
+
+Still, despite its proximity to civilisation and relative small size for an African national park, Nairobi National Park boasts a large and varied wildlife population. Migrating herbivores gather in the park during the dry season, and it is one of Kenya's most successful rhinoceros sanctuaries.]]></description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.8500834849442,-1.326760592477174,0 36.84860571620465,-1.326268509073377,0 36.84565005005616,-1.326269162809533,0 36.84318705648173,-1.326269688666086,0 36.84121661124187,-1.326762502569583,0 36.83776848620965,-1.327255584374538,0 36.83678335302106,-1.327255771960749,0 36.83382792395997,-1.327748709997628,0 36.83136494299178,-1.329226297993695,0 36.82939471628273,-1.32971900383089,0 36.82594696783914,-1.33021191910126,0 36.82496193384046,-1.330212066944901,0 36.82299181756856,-1.3307047225784,0 36.81954417373438,-1.331689920124404,0 36.81708172242522,-1.331690234440917,0 36.81511179049322,-1.331690474386047,0 36.81264940854042,-1.331690759933409,0 36.80969459704885,-1.33169108149473,0 36.80772469330537,-1.332183630302303,0 36.80476990971754,-1.332676248903954,0 36.80329245896754,-1.333661058410456,0 36.80132263470418,-1.33415355610287,0 36.79886039636464,-1.334646075092133,0 36.79689066664125,-1.334646212031371,0 36.79442857144851,-1.334154040294166,0 36.79295134342722,-1.333661798579769,0 36.79098174071368,-1.332677246710431,0 36.78901206494541,-1.332677348915546,0 36.78654998748192,-1.332677462491626,0 36.78408792878201,-1.332677560312159,0 36.78113341340076,-1.333662308872066,0 36.77916373343301,-1.33464700330931,0 36.77670166988358,-1.335631686733035,0 36.77522441891343,-1.336616336070459,0 36.7742395457308,-1.33809327788986,0 36.77226987121144,-1.340062509188694,0 36.7712849926149,-1.34203170751849,0 36.76931537229417,-1.343508583630949,0 36.76833049333081,-1.345970015881731,0 36.76783804620536,-1.347446862661953,0 36.76734556329936,-1.349908252345373,0 36.76685312364332,-1.351385069212189,0 36.7658682699289,-1.353846401853462,0 36.76537583685481,-1.355323190896387,0 36.76537574794383,-1.357784500474598,0 36.7663603956256,-1.360738057486508,0 36.76636032574395,-1.362707068748202,0 36.76685263219071,-1.364676076548524,0 36.76685256403609,-1.366645061314,0 36.76734487150809,-1.368614047133245,0 36.76783714686791,-1.37156750205118,0 36.76832942555596,-1.374520938015909,0 36.76882172140866,-1.376982123707938,0 36.76980639399597,-1.379443309992995,0 36.76980634946411,-1.380920006911225,0 36.77079102724089,-1.383381182343547,0 36.77079097159125,-1.385350102302388,0 36.77079091770677,-1.387319020059134,0 36.76931375231828,-1.388795671801546,0 36.76783661444438,-1.389287863945579,0 36.76635945270733,-1.390764509650058,0 36.76438993148005,-1.391748911856646,0 36.76291274314685,-1.394210007656095,0 36.76143556736484,-1.396178875143187,0 36.76143549804363,-1.398640015720485,0 36.76143542938407,-1.401101160099439,0 36.7624201273283,-1.40307010912184,0 36.76389720706136,-1.40503907961012,0 36.76488192664775,-1.406515806842224,0 36.76685141008663,-1.407992570429977,0 36.76832853231788,-1.408977086866492,0 36.7712828242413,-1.408977182106809,0 36.77325236706876,-1.408485009633962,0 36.77522191331724,-1.407992838535688,0 36.77719146490592,-1.407500666025315,0 36.77965341780187,-1.406516271910691,0 36.78162298413258,-1.4060240979907,0 36.78408495725992,-1.40503970204004,0 36.78703934055215,-1.404547555829987,0 36.78950134323823,-1.404055392180894,0 36.79147096196301,-1.403563211439216,0 36.79344059082452,-1.402086546459574,0 36.7954102389652,-1.400609876246044,0 36.79688748161721,-1.399133188131503,0 36.79934957396073,-1.39716427327789,0 36.80082684240262,-1.395687571618334,0 36.8032889763319,-1.394210878029424,0 36.80476627903665,-1.392241913228562,0 36.80624360109378,-1.390272937797895,0 36.8077209277233,-1.388796199509412,0 36.80969071191882,-1.38731945138519,0 36.81166052069786,-1.385842688904745,0 36.81313790535972,-1.384365915333663,0 36.81560020931853,-1.383381375849867,0 36.81707763210697,-1.381904575451124,0 36.81855507350733,-1.380427761517436,0 36.82101744040524,-1.380427707374387,0 36.82347983451675,-1.380919917039032,0 36.82495725864297,-1.382396689854073,0 36.82643471947445,-1.383381199665408,0 36.82889718693465,-1.385350240936321,0 36.83086719956403,-1.386827032548244,0 36.83332978798394,-1.387319273452627,0 36.83628497260878,-1.387319227815587,0 36.83874767499944,-1.38781147182493,0 36.84121043588776,-1.387811429832053,0 36.84268811153031,-1.388795985712204,0 36.84465838083382,-1.390272837067204,0 36.84564354040066,-1.391749712113235,0 36.84810647794608,-1.393226590590829,0 36.84958427415284,-1.394211188571656,0 36.85204731574578,-1.395195797278344,0 36.85352516955445,-1.395688107735177,0 36.85598832132636,-1.396672740095686,0 36.85746626580519,-1.397657380093511,0 36.8599295269927,-1.398642043049428,0 36.86190020792638,-1.399626715606675,0 36.86436356838611,-1.399626752331129,0 36.86584161693139,-1.399626773946497,0 36.86830506863224,-1.399134471616551,0 36.86978312211371,-1.397657469360677,0 36.87126133107257,-1.399134506917674,0 36.8732323153395,-1.400611572572833,0 36.8742179069556,-1.402580992103619,0 36.87520349497552,-1.404058078205948,0 36.87717457514088,-1.405042859057053,0 36.87865303035636,-1.407012363742197,0 36.88273078713622,-1.413794538128627,0 36.8833493994688,-1.413485325510123,0 36.88458662507826,-1.412866900625305,0 36.88582382117227,-1.41163004368159,0 36.887061056685,-1.411011619258304,0 36.88829831586467,-1.410702411420062,0 36.88984492339037,-1.410702423640841,0 36.89139154402238,-1.410702437459706,0 36.8929381784098,-1.410702452876705,0 36.89448486908833,-1.411320911758494,0 36.89572224349355,-1.411939372945264,0 36.8963409801238,-1.412867051739213,0 36.89788766820248,-1.412867079794699,0 36.89912500558175,-1.412557877642314,0 36.90098104400041,-1.412248688856191,0 36.9025277283106,-1.411630264793772,0 36.90407443159235,-1.411011838873598,0 36.90531182404649,-1.410702633752026,0 36.9065492281413,-1.410393427881547,0 36.90809603097068,-1.410393457603374,0 36.90995224766245,-1.410702727956691,0 36.91180849742155,-1.411012004366591,0 36.9130460296462,-1.411321270875388,0 36.9142836672673,-1.412558254929587,0 36.91552130130408,-1.413486015807029,0 36.91706838123184,-1.414723045108925,0 36.91830606086293,-1.415650834484681,0 36.91954376886026,-1.416578635291254,0 36.92078145996602,-1.417197199304251,0 36.92170980219837,-1.418125008567893,0 36.92325698796801,-1.419052867368293,0 36.92418532479069,-1.419671442914542,0 36.92542314266643,-1.420599308963141,0 36.92635161560034,-1.421836428357824,0 36.92728010471913,-1.423073569207112,0 36.92882749063415,-1.424310784367093,0 36.92975592020939,-1.424929416895419,0 36.93068442227696,-1.425857334916517,0 36.93223184824968,-1.426785331834069,0 36.9337794417478,-1.428331921645774,0 36.93563642356607,-1.429260007707933,0 36.937184058676,-1.430497372717893,0 36.93811263447083,-1.43111608980904,0 36.939041160117,-1.431425516049529,0 36.94058875232798,-1.432044338730347,0 36.94151746337443,-1.432972391897049,0 36.94306512664082,-1.433591247713586,0 36.9439937280822,-1.433900706756268,0 36.94554145468668,-1.434519589212179,0 36.94677962334254,-1.434829115964475,0 36.94832752536198,-1.43575735155134,0 36.9492563936375,-1.436685498618586,0 36.95018528547005,-1.437613660225949,0 36.95142375370953,-1.438541905002544,0 36.95328108145407,-1.43854228104225,0 36.95420976673851,-1.43854247203228,0 36.95575760432261,-1.438542794748955,0 36.95637695879794,-1.439161616101995,0 36.95668703960413,-1.440708426345499,0 36.9569968319842,-1.441327200247805,0 36.95854487461912,-1.441636913925201,0 36.95947365307121,-1.441637132977345,0 36.96071193219107,-1.441328068306556,0 36.96071139555281,-1.439781280321513,0 36.96071108045938,-1.438853217207107,0 36.96009137791704,-1.437306328790028,0 36.95978148222187,-1.436378226795086,0 36.95947141309468,-1.434831448210259,0 36.9591614451159,-1.433594030822186,0 36.9588513998471,-1.432047295240194,0 36.95823206318288,-1.431428520672098,0 36.95730298815379,-1.430191046139538,0 36.95668350402048,-1.428953648568933,0 36.95575448259667,-1.427716220977356,0 36.95482549040916,-1.426478817450691,0 36.954206156846,-1.42555079066927,0 36.95327721345233,-1.424313427364631,0 36.95203889270047,-1.423694660333986,0 36.95111007277756,-1.422766639177462,0 36.9498717428043,-1.421838599724468,0 36.94925250020793,-1.420910645223738,0 36.94832362554517,-1.419364082785042,0 36.94801380985908,-1.417817599920333,0 36.94739450341498,-1.41627110951664,0 36.94739428881113,-1.415033967800201,0 36.9473940821881,-1.413796830663595,0 36.94708422678443,-1.411631840223212,0 36.94677462251565,-1.411013264759179,0 36.94584584421894,-1.409157558039875,0 36.94460768657005,-1.407920418405331,0 36.9436791233389,-1.407301846952617,0 36.94275054445002,-1.40637401351154,0 36.94151250549043,-1.405446186434112,0 36.93965551021714,-1.404209101563352,0 36.93903650970265,-1.403590572184489,0 36.93717962689134,-1.402662782232291,0 36.93625119465411,-1.402044266548153,0 36.93532275022605,-1.401116501132615,0 36.9340848722597,-1.400188748284571,0 36.93284704921287,-1.399570256800486,0 36.93160924396941,-1.398951772486506,0 36.9303714664042,-1.398333295537524,0 36.92913372643503,-1.398024070666541,0 36.92789601155404,-1.397714848534206,0 36.92665829184336,-1.397096387816879,0 36.92572999134713,-1.396168685449742,0 36.92480167341284,-1.394622511750418,0 36.92387337129075,-1.393076350311331,0 36.92356392818429,-1.392148649100316,0 36.92325447845917,-1.390911712935788,0 36.92294502135923,-1.389365542438407,0 36.92263557977456,-1.387819374072608,0 36.92170734874588,-1.386273245301788,0 36.92139793282126,-1.38534555594924,0 36.92046972628332,-1.383490202061194,0 36.91923215343471,-1.381944112153749,0 36.91861337403757,-1.380707218017514,0 36.91830398517522,-1.380088771290906,0 36.91737583924022,-1.378542669962678,0 36.91675708514923,-1.377305780627284,0 36.91582896135477,-1.376068919119024,0 36.91521022567762,-1.374832032700849,0 36.91397273706804,-1.374213675962092,0 36.91304464786212,-1.37297682024449,0 36.91149780741028,-1.372667732093424,0 36.91026035821766,-1.372049379785395,0 36.90902292805984,-1.371431029929975,0 36.90840423302708,-1.370503386332329,0 36.9071668182433,-1.369885036496106,0 36.90592942139879,-1.36926668688705,0 36.90500139531898,-1.368339073978641,0 36.90376402519006,-1.367411492118647,0 36.90252666713033,-1.36648390813897,0 36.90190801421841,-1.365556263243036,0 36.90067068536088,-1.36431944116135,0 36.90005205229465,-1.363082554606388,0 36.89943340818431,-1.362154905363135,0 36.89819609202174,-1.361227312787561,0 36.89726813514804,-1.359990446014837,0 36.89603083533589,-1.359062847035855,0 36.89479354142742,-1.358135244504983,0 36.89355624450504,-1.35751688110959,0 36.89293762729727,-1.356589211192173,0 36.89200969457928,-1.35535232183256,0 36.89077239956531,-1.355043195593952,0 36.88953511203396,-1.354734066220299,0 36.88829784422374,-1.354115690763729,0 36.88736992940116,-1.352878784996533,0 36.88644200182215,-1.351951120596857,0 36.88551406654739,-1.351332701817872,0 36.88458615840732,-1.350095774628441,0 36.88334892038067,-1.349168118863924,0 36.88211169468344,-1.347931198656523,0 36.88087445052243,-1.347312784056002,0 36.87994652554712,-1.346694343070841,0 36.87839999146022,-1.345457418837931,0 36.87747206748031,-1.344838962158361,0 36.87623483112704,-1.344220522359806,0 36.87499759625963,-1.34360207601032,0 36.87406968204696,-1.342674336236981,0 36.87283244760876,-1.342055875934166,0 36.87159521987787,-1.34112813761727,0 36.86973936576456,-1.340200420257357,0 36.86819281847087,-1.339581949923728,0 36.86695558065951,-1.338963452819981,0 36.86540903467703,-1.33772639790807,0 36.86417179198499,-1.336798600742496,0 36.8629345452643,-1.336180071869588,0 36.86169729403615,-1.335252250723112,0 36.8604600369588,-1.334324409254001,0 36.85953209097313,-1.33370584418676,0 36.85798550398067,-1.33246868956296,0 36.85674823251905,-1.331850105558,0 36.85520163919638,-1.331231511176968,0 36.85427365686137,-1.329994300721306,0 36.85334568476004,-1.329375684006163,0 36.85210839813863,-1.329066366101576,0 36.85087109613701,-1.32844772824365,0 36.84963379928006,-1.328138393756339,0 36.8500834849442,-1.326760592477174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

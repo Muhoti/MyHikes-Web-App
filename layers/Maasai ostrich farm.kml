@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Maasai ostrich farm.kml</name>
+	<Style id="failed6">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed14">
+		<LineStyle>
+			<color>ff0055aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Maasai ostrich farm</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UjFm_7osfpwLGCmYDc6f4VV8F6-IH6FjfTCO7BIwnX48rESu">
+The Maasai Ostrich Farm is located about 45 km south of Nairobi. You will not only enjoy a taste of Ostrich meat but you will also get a chance to ride on Ostrich.]]></description>
+		<styleUrl>#m_ylw-pushpin6</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.86828660378217,-1.570917333234998,0 36.87119233991979,-1.575368980843274,0 36.87942575639993,-1.573196759480676,0 36.87952577452403,-1.573120246426728,0 36.88209686289059,-1.572554243356165,0 36.88373447720971,-1.572340078785582,0 36.88046452145139,-1.567551752327216,0 36.86828660378217,-1.570917333234998,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

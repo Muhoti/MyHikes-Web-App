@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MAP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--External Stylesheets-->
+  <link href="../leaflet/leaflet.css" rel="stylesheet">
+  <link rel="stylesheet" href="leafletsearch/src/leaflet-search.css" />
+
+<!--Bootstrap core CSS-->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!--Custom styles for this template-->
+<link href="css/3-col-portfolio.css" rel="stylesheet">
+<style>
+.search-input {
+	font-family:Courier
+}
+.search-input,
+.leaflet-control-search {
+	max-width:400px;
+}
+</style>
+</head>
+<body>
+<!--Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#"><big><b>NAIROBI COUNTY TOURIST SITES</b></big></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="MAP.html">MAP
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="services.html">SERVICES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+<!--Page Content-->
+<div class="container">
+
+<!--Page Heading-->
+<h1 class="my-4">
+</h1>
+<div id="map" style="width: 1350px; height: 650px">
+</div>
+<div id="controls" style="margin: 15px;">
+
+    <button id="toggleButton">Press to Show/Hide tourist sites</button>
+</div>
+
+<!--Add the Leaflet CSS library-->
+<link href="../leaflet/leaflet.css" rel="stylesheet">
+<link rel="stylesheet" href="dist/leaflet-routing-machine.css">
+
+
+
+<!--Add the Leaflet JavaScript library-->
+<script src="../leaflet/leaflet.js"></script>
+<script src="leafletsearch/src/leaflet-search.js"></script>
+<script src="dist/leaflet-routing-machine.js"></script>
+<script src="polygons/polygon.js"></script>
+<script src="dist/leaflet-routing-machine.js"></script>
+
+<!--Adding the JQuery library-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="MAP.js"></script>
+
+<!--Adding the other library-->
+ <link rel="stylesheet" href="leafletsearch/examples/style.css">
+
+
+</body>
+</html>

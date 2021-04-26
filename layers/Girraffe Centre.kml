@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Girraffe Centre.kml</name>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Girraffe Centre</name>
+		<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhigTNtgtnRfvCWi6VJ68SfRfYHyFl0Pw7bTLfxODaRTX25_T">The Giraffe Centre was started by Jock Leslie-Melville, the Kenyan grandson of a Scottish Earl, when he and his wife Betty captured a baby giraffe to start a programme of breeding giraffe in captivity at their home in Langata – home of the present centre. Since then the programme has had huge success, resulting in the introduction of several breeding pairs of Rothschild Giraffe into Kenyan national parks. It is located at Karen, approximately 5 kilometres from the centre of Nairobi.]]></description>
+		<styleUrl>#msn_ylw-pushpin000</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						36.74614645757853,-1.374686053569001,0 36.74460754121859,-1.374809969628178,0 36.74446294676115,-1.374840945949196,0 36.74443196276341,-1.374758344828271,0 36.7432855423098,-1.374892575785184,0 36.74282077954489,-1.374964852096627,0 36.74219076869372,-1.37502680239678,0 36.74121993122152,-1.375161026088019,0 36.74128189971652,-1.376224509669736,0 36.74267618568442,-1.376110935579586,0 36.7427794655798,-1.377866197961507,0 36.74582628257772,-1.378299872981097,0 36.74596055139367,-1.378268898761003,0 36.74603284960156,-1.378206947943119,0 36.74616711222866,-1.377546133898879,0 36.74622908063259,-1.377267353537776,0 36.74636334722615,-1.376575565602773,0 36.74614645757853,-1.374686053569001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
