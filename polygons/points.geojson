@@ -1,0 +1,110 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Name": "Dedan Kimathi Statue",
+				"description": "<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSd7DGhjz9yQOLiLn56SEM22TnaRp4vZVwduRj8czE2yzgON0CsNA\">The Dedan Kimathi Statue is located along Kimathi Street, opposite the Hilton Hotel in Nairobi. It was built in memory of Field Marshal Dedan Kimathi. Dedan Kimathi (Oct 31, 1920 – Feb 18, 1957) was a freedom fighter that fought against British colonial rule in Kenya in the 1950s. He was later caught, found guilty and soon after executed by the British colonial government.",
+				"timestamp": null,
+				"begin": null,
+				"end": null,
+				"altitudeMode": null,
+				"tessellate": -1,
+				"extrude": 0,
+				"visibility": -1,
+				"drawOrder": null,
+				"icon": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.824184676187059, -1.284973934751122, 0.0]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Kipande House",
+				"description": "<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT6A3Pw07NvDBUWZDOwLD9hqNkyvHSMuN7MAezTjnPwOqYLMbc6\">This building was used as the registration center for African who used to work in Nairobi during the colonial period. Kipande house is now used as the Kenyatta Avenue Branch of KCB bank.",
+				"timestamp": null,
+				"begin": null,
+				"end": null,
+				"altitudeMode": null,
+				"tessellate": -1,
+				"extrude": 0,
+				"visibility": -1,
+				"drawOrder": null,
+				"icon": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.818618532839182, -1.285311432619903, 0.0]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "McMillan Library",
+				"description": "<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRfTFD4Ky6T5UYovRUzNeXWSKp9GgCKH5GWc15wBLi_ARdEkGGv\">The McMillan Memorial Library building (sometimes erroneously spelled “MacMillan”) is one of the oldest and largest libraries in Nairobi. Located in the city centre, the library is surrounded by many landmarks and important Nairobi buildings, including the Jamia Mosque, court houses and the Stanley Hotel. The McMillan building has a picturesque exterior architecture, finished in Nairobi blue stone, with a front entrance marked by classic large pillars and stone lion sculptures. Established in 1931, the building was named after US-born philanthropist, Sir William Northrup McMillan. Today the Library is operated by the Nairobi City Council and serves an average of 1,000 users per day (in conjunction with its two branches). The library also houses an extensive Africana section, as well as rare first edition books and works of art, including portraits and sculptures (these include a sculpture by Cesare Lapini and a portrait of Andrew Carnegie).",
+				"timestamp": null,
+				"begin": null,
+				"end": null,
+				"altitudeMode": null,
+				"tessellate": -1,
+				"extrude": 0,
+				"visibility": -1,
+				"drawOrder": null,
+				"icon": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.821224878359033, -1.283596485891619, 0.0]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "The Galton Fenzi Memorial Stone",
+				"description": "The stone stands at the point which is considered as the center of Nairobi. It was built in honor of Lionel Douglas Galton-Fenzi was the first man in January 1926 to drive from Mombasa to Nairobi, co-driven by Capt. Gethin. The Galton-Fenzi memorial monument next to GPO is in his honour.The memorial is the beacon from which road distances from the city of Nairobi are measured.<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRpMTGBuXKJjxHkzhw6RhB5Tab0tbtFDK9Y4Sul-CTWh5DXjEkbow\">",
+				"timestamp": null,
+				"begin": null,
+				"end": null,
+				"altitudeMode": null,
+				"tessellate": -1,
+				"extrude": 0,
+				"visibility": -1,
+				"drawOrder": null,
+				"icon": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.819845435651487, -1.285569091582868, 0.0]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Name": "Tom Mboya Statue",
+				"description": "<img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRq4e5J6q3IoRoYTCFczet9jzg9Cc1RDhrbnHzXVPL_G9f6gYos\">The Tom Mboya Monument is along the Moi Avenue in Nairobi, Kenya. It was erected in 2011 in honour of Tom Mboya, a Kenyan minister who was assassinated in 1969. The monument stands about twenty meters from where Mboya was murdered. The statue stands at not less than ten meters from ground level. Since its unveiling, the monument's location has proven to be one of the most popular rendezvous currently available within the Nairobi CBD.",
+				"timestamp": null,
+				"begin": null,
+				"end": null,
+				"altitudeMode": null,
+				"tessellate": -1,
+				"extrude": 0,
+				"visibility": -1,
+				"drawOrder": null,
+				"icon": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.825378842466243, -1.284750514439438, 0.0]
+			}
+		}
+	]
+}
